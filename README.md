@@ -8,7 +8,9 @@ This repository is maintained (with authorisation) by Lisias.
 
 ## In a Hurry
 
-* [Source](https://github.com/net-lisias-ksp/TweakScale)
+* [Latest Release](https://github.com/net-lisias-ksp/AirplanePlus/releases)
+	+ [Older Binaries](https://gitlab.com/net-lisias-ksph/AirplanePlus/-/tree/Archive)
+* [Source](https://github.com/net-lisias-ksp/AirplanePlus)
 	+ [Issue Tracker](https://github.com/net-lisias-ksp/AirplanePlus/issues)
 * Documentation
 	+ Forum (WiP)
