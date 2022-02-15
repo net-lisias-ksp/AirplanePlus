@@ -1,4 +1,0 @@
-Copy the blank.png to edit it. 
-Be sure to not remove or edit it as it is the default logo for empty.
-
-When you have it saved, change the engines you want to have the logos in their configs.
