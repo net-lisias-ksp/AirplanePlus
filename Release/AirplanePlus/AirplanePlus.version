@@ -1,1 +1,29 @@
-{"NAME":"Airplane Plus","URL":"http://ksp-avc.cybutek.net/version.php?id=660","DOWNLOAD":"https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-18x-airplane-plus-r263-fixed-issues-dec-12-2019/","VERSION":{"MAJOR":26,"MINOR":0,"PATCH":4,"BUILD":0},"KSP_VERSION":{"MAJOR":1,"MINOR":8,"PATCH":1},"KSP_VERSION_MIN":{"MAJOR":1,"MINOR":4,"PATCH":0},"KSP_VERSION_MAX":{"MAJOR":1,"MINOR":8,"PATCH":1}}
+{"NAME":"Airplane Plus",
+"URL":"http://ksp-avc.cybutek.net/version.php?id=660",
+"DOWNLOAD":"https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-18x-airplane-plus-r263-fixed-issues-dec-12-2019/",
+"CHANGE_LOG_URL":"https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/",
+"VERSION":
+{
+"MAJOR":26,
+"MINOR":0,
+"PATCH":4,
+"BUILD":0
+},
+"KSP_VERSION":
+{
+"MAJOR":1,
+"MINOR":8,
+"PATCH":1
+},
+"KSP_VERSION_MIN":
+{
+"MAJOR":1,
+"MINOR":4,
+"PATCH":0
+},
+"KSP_VERSION_MAX":
+{"MAJOR":1,
+"MINOR":8,
+"PATCH":1
+}
+}

@@ -1,0 +1,24 @@
+Airplane Plus
+
+### 26.0.5 (Version 26.5) Released on 2020-01-24
+
+- Fixed blank textures
+
+
+### 26.0.4 (Version 26.4) Released on 2019-12-21
+
+- Fixed Squad's new path for cone textures wrongly referenced in the config
+- Fixed J-34 "Chevron" High-Bypass Turbofan Engine having Jettison Module when not needed
+
+
+### 26.0.3 (Version 26.0.3) Released on 2019-12-12
+
+- DDS conversion of some of the files to DXT5 (klgraham1013)
+- Fixes on modulecargobay and bulkheadprofiles for payload parts*(Jognt)
+- *Mk1 Passenger Door
+- *Mk1 Nose Trunk CRG-NT
+- *Mk1 Junior Cargo Bay CRG-50-0
+
+
+### X.X.X ...
+- Many things

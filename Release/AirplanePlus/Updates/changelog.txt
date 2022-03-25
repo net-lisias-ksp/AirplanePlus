@@ -1,0 +1,16 @@
+// changelog for updates by Skalou
+
+***update v1.0.0***
+- renamed part.cfg with "partname".cfg
+- removed badly commented modules and cleaned things in .cfg, module pointing to inexistant object in landing gears etc...
+- removed some lost flag textures in folders, kerbal default flags in engines ...
+- added a model and config to add airlocks and ladders for the s1p5cabin, it was not possible to eva from this part !
+- added AirplanePlus\Updates folder with patch to store patches:
+	- MM_AirplanePlus_TWEAKS.cfg , read stuff inside to know
+	- Kerbalism_AirplanePlus.cfg , for kerbalism compatibility
+- added a changelog and tweaked KSP-AVC .version file
+
+ToDo:
+- update changelog and KSP-AVC.version links
+- change versionning numbers from 26.5 to someting like 26.0.5 as stated in the version file (confusing numbers)? use 27.0.0 for the next one to don't mess things?
+- host in github the ksp KSP-AVC .version file instead of https://ksp-avc.cybutek.net/version.php?id=660 ?
