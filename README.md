@@ -3,7 +3,9 @@
 A spin off of AirplanePlus focused on introducing further content inline with the style of existing parts, and fixing bugs caused by the mod being outdated 
 
 
-## ONLY INSTALL THE DEV BRANCH IF YOU UNDERSTAND THERE IS UNFINISHED AND BUGGY PARTS:
+## NOTICE FOR ALL THAT DOWNLOAD THE DEV BRANCH:
+
+#### THE PARTS IN DEV ARE MOST LIKELY GOING TO BE UNFINISHED AND BUGGY, ONLY USE FOR BUG TESTING
 
 Parts are added to dev during testing, and get pushed to the master branch after being tested and fixed up
 
