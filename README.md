@@ -1,6 +1,6 @@
 # AirplanePlus (Plus)
 
-A fork of AirplanePlus, in collaboration with LinuxGuruGamer, Lisias, and Skalou, with the permission of Blackheart612, to fix, maintain, and contribute to the mod for the current version of KSP.
+A fork of AirplanePlus, in collaboration with Lisias and Skalou, with the permission of Blackheart612, to fix, maintain, and contribute to the mod for the current version of KSP.
 
 ## Plans
 
@@ -11,7 +11,7 @@ Under current circumstances, this fork is serving as the home of all part additi
 * F-100 Cockpit
 * F-100 Intake
 * F-22 Elevon
-* 5 Various Side Intakes (Provided by SuicidalInsanity)
+* 5 Various New Intakes (Provided by SuicidalInsanity)
 
 ### Current Parts Planned:
 * BAD-T Jets (Provided by SuicidalInsanity)
