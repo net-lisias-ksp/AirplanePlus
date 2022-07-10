@@ -29,6 +29,7 @@
 *.mu      binary
 *.dll     binary
 *.bundle  binary
+*.tga     binary
 
 # Compression utilities
 *.zip     binary

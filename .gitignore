@@ -7,13 +7,13 @@ GameData/**/README.md
 GameData/**/CHANGE_LOG.md
 GameData/**/KNOWN_ISSUES.md
 GameData/**/*.version
+GameData/Part Deleter's Guide.txt
 Source/**/Properties/Version.cs
 Source/**/Properties/Configuration.cs
-Source/*/*.user
+Source/**/*.user
 bin
 obj
 packages
 *.blend1
 *_autosave_*
 *.painter_lock
-GameData/Part Deleter's Guide.txt
