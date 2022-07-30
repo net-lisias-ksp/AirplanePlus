@@ -20,12 +20,6 @@ Under current circumstances, this fork is serving as the home of all part additi
 * More Wing Shapes and Sizes
 * Various Part Suggestions
 
-## NOTICE FOR ALL THAT DOWNLOAD THE DEV BRANCH:
-
-#### THE PARTS IN DEV ARE MOST LIKELY GOING TO BE UNFINISHED AND BUGGY, ONLY USE FOR BUG TESTING
-
-Parts are added to dev during testing, and get pushed to the master branch after being tested and fixed up
-
 ## License
 
 Please note the copyrights and trademarks in [NOTICE](./NOTICE). 
