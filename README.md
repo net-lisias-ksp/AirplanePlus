@@ -1,25 +1,31 @@
 # AirplanePlus (Plus)
 
-A fork of AirplanePlus, in collaboration with Lisias and Skalou, with the permission of Blackheart612, to fix, maintain, and contribute to the mod for the current version of KSP.
+A fork of AirplanePlus, in collaboration with Lisias, with the permission of Blackheart612, to fix, maintain, and contribute to the mod for the current version of KSP.
 
 ## Plans
 
-Under current circumstances, this fork is serving as the home of all part additions to the mod. For bug fixed versions of the mod, use Skalou's fork for the time being. All content current included in this fork will be merged into Lisias' or LinuxGuruGamer's forks, wherein they will package and distribute the mod. 
+Under current circumstances, this fork is serving as the home of all part additions to the mod. For bug fixed versions of the mod, use Skalou's fork for the time being. All content current included in this fork will be merged into Lisias's fork, wherein they will package and distribute the mod. 
 
 ### Current Parts Added:
 
 * F-100 Cockpit
 * F-100 Intake
 * F-22 Elevon
+* F-23 Ruddervator
+* F-22 Cockpit
+* YF-23 cockpit with variants
 * 5 Various New Intakes (Provided by SuicidalInsanity)
+* F-14 Cockpit
+* Podracer Cockpit
+* Hammerhead Cockpit
+* Radial Cockpit
+* Various new engines
 
-### Current Parts Planned:
-* BAD-T Jets (Provided by SuicidalInsanity)
-* F-104 Intake (based around MK3S1 parts)
-* MK0.5 (0.9375m) Form Factor of Parts
-* More Wing Shapes and Sizes
-* Various Part Suggestions
-
+Parts are made with help from the community, including:
+* SuicudalInsanity
+* Eclipse
+* Timmy
+* Stardust
 
 ## License
 
