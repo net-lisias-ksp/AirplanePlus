@@ -6,6 +6,7 @@ Previously developed and maintained by [Blackheart612](https://forum.kerbalspace
 
 This repository is maintained (with authorisation) by Lisias.
 
+
 ## In a Hurry
 
 * [Latest Release](https://github.com/net-lisias-ksp/AirplanePlus/releases)
@@ -27,25 +28,7 @@ This repository is maintained (with authorisation) by Lisias.
 
 ## Description
 
-A fork of AirplanePlus introducing further content inline with the style of existing parts and fixing bugs.
-
-## Plans
-
-Under current circumstances, this fork is serving as the home of all part additions to the mod.
-
-### Current Parts Added:
-
-* F-100 Cockpit
-* F-100 Intake
-* F-22 Elevon
-* 5 Various New Intakes (Provided by SuicidalInsanity)
-
-### Current Parts Planned:
-* BAD-T Jets (Provided by SuicidalInsanity)
-* F-104 Intake (based around MK3S1 parts)
-* MK0.5 (0.9375m) Form Factor of Parts
-* More Wing Shapes and Sizes
-* Various Part Suggestions
+A fork of AirplanePlus with fixes and updates to modern KSP.
 
 
 ## License
@@ -72,13 +55,6 @@ But explicitly forbids you to:
 
 * Exploit it commercially
 
-### Assets by Drag0nD3str0yer
-
-All assets under the following subdirectories:
-
-* [Plus](./GameData/AirplanePlus/Plus)
-
-are ©[Drag0nD3str0yer](https://forum.kerbalspaceprogram.com/?app=core&module=members&controller=profile&id=173824) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?).
 
 ### Source Code
 
@@ -109,6 +85,7 @@ Source code on the subdirectory [Source](./Source) (and the respective compiled 
 * If by some reason the GPL would be invalid for you, rest assured that you still retain the right to Use the Work under SKL 1.0.
 
 And you has the choice to choose the license that best suits your needs.
+
 
 ## References
 
