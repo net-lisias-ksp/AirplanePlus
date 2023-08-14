@@ -1,7 +1,6 @@
 ﻿/*
 	This file is part of Airplane++ /L
-		© 2022 by:
-			Drag0nD3str0yer : https://github.com/Drag0nD3str0yer <
+		© 2022-2023 by:
 			LisiasT : http://lisias.net <support@lisias.net>
 
 	The Source Code for Airplane++ is double licensed, as follows:
@@ -26,8 +25,8 @@ namespace AirplanePlus
 	public static class LegalMamboJambo
 	{
 		public const string Company = "L Aerospace/KSP Division";
-		public const string Copyright = "© 2022 Drag0nD3str0yer & LisiasT";
+		public const string Copyright = "© 2022-2023 LisiasT";
 		public const string Product = "Airplane+";
-		public const string Trademark = "AirplanePlus™ by blackheart612, Airplane+ /DL™ by Drag0nD3str0yer & LisiasT";
+		public const string Trademark = "AirplanePlus™ by blackheart612, Airplane+ /L™ by LisiasT";
 	}
 }

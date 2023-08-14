@@ -85,9 +85,9 @@ namespace <#= PROJECT_NAME #>
 		public const string Number = "<#= major #>.<#= minor #>.<#= patch #>.<#= build #>";
 
 	#if DEBUG
-		public const string Text = Number + " /L Unofficial DEBUG";
+		public const string Text = Number + " /L DEBUG";
 	#else
-		public const string Text = Number + " /L Unofficial";
+		public const string Text = Number + " /L";
 	#endif
 	}
 }

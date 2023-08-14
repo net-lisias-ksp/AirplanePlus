@@ -1,7 +1,6 @@
 ﻿/*
 	This file is part of Airplane++ /L
-		© 2022 by:
-			Drag0nD3str0yer : https://github.com/Drag0nD3str0yer <
+		© 2022-2023 by:
 			LisiasT : http://lisias.net <support@lisias.net>
 
 	The Source Code for Airplane++ is double licensed, as follows:
