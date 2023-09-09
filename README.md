@@ -31,6 +31,11 @@ This repository is maintained (under authorisation) by Lisias.
 A fork of AirplanePlus with fixes and updates to modern KSP.
 
 
+## Installation
+
+Detailed installation instructions are now on its own file (see the [In a Hurry](#in-a-hurry) section) and on the distribution file.
+
+
 ## License
 
 Please note the copyrights and trademarks in [NOTICE](./NOTICE). 

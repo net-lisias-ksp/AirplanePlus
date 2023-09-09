@@ -15,6 +15,8 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 	+ Delete `<KSP_ROOT>/GameData/AirplanePlus`
 * Extract the package's `GameData/` folder into your KSP's as follows:
 	+ `<PACKAGE>/GameData/AirplanePlus ` --> `<KSP_ROOT>/AirplanePlus `
+* Install the remaining dependencies
+        + See below on **Dependencies**
 
 The following file layout must be present after installation:
 
@@ -43,6 +45,8 @@ The following file layout must be present after installation:
 			* NOTICE
 			* README.md
 			* AirplanePlus.version
+		+ [Firespitter]
+			... 
 		* ModuleManager.dll
 		...
 	* KSP.log
@@ -53,5 +57,9 @@ The following file layout must be present after installation:
 
 ### Dependencies
 
+* [Firespitter](https://github.com/snjo/Firespitter/releases) (or Firespitter Core)
+	+ Hard Dependency - parts will not work without it.
+	+ Not Included
 * Module Manager 3.1.3 or later
-	+ **Not Included**
+	+ Soft dependency - it's possible to play without it, besides having less features available.
+	+ Not Included
