@@ -1,6 +1,10 @@
-# AirplanePlus
+# Airplane Plus /L
 
-A fork of AirplanePlus introducing further content inline with the style of existing parts and fixing bugs.
+Adds a collection plane parts which came from different timelines.
+
+Previously developed and maintained by [Blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) (eternal thanks for making and maintaining AP+!), currently by yours truly, [Lisias](https://forum.kerbalspaceprogram.com/index.php?/profile/187168-lisias/).
+
+This repository is maintained (under authorisation) by Lisias.
 
 
 ## Installation Instructions
