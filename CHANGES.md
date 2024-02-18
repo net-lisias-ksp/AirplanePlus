@@ -1,5 +1,8 @@
 # Airplane Plus :: Changes
 
+* 2024-0218: 26.6.2.1 (LisiasT) for KSP => 1.4.1
+	+ Pulling a fast one: fixing the cause of the infamous TweakScale's warning `NULL ConfigNode for <part-path> (unholy characters on the name?). Trying partConfig instead!` at the same trying to salvage any current patchset, partset or UbioWeld made parts by keeping the meshes and textures on the original place.
+		- It's deceiving because the "problem" is still there, I only moved it around to a place where TweakScale will not complain.
 * 2023-0909: 26.6.2.0 (LisiasT) for KSP => 1.4.1
 	+ New parts, courtesy of ColdJ!
 		- `CJFiftyOne` (WMB VI "Vortex" Engine ColdJ)
