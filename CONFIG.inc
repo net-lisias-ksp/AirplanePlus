@@ -23,7 +23,7 @@ GD_PRIORITY=""
 LIB_DLLS="${DLLS}"
 
 # External Libs from the LIB directory
-EXT_DLLS="KSPe.Light.AP"
+EXT_DLLS="KSPe.Light.APP"
 
 
 PROJECT_BRANCH=`git branch | grep \* | cut -d ' ' -f2`

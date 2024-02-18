@@ -40,24 +40,24 @@ namespace AirplanePlus
 			catch (KSPe.Util.InstallmentException e)
 			{
 				Log.error(e.ToShortMessage());
-				KSPe.Common.Dialogs.ShowStopperAlertBox.Show(e);
+				KSPe.Common.Dialogs.ShowStopperErrorBox.Show(e);
 			}
 			catch (System.DllNotFoundException e)
 			{
 				Log.error(this, e);
-				KSPe.Common.Dialogs.ShowStopperAlertBox.Show(e.ToString());
+				KSPe.Common.Dialogs.ShowStopperErrorBox.Show(e.ToString());
 			}
 		}
 
 		private void checkDependencies(string assemblyName)
 		{
-			if (KSPe.Util.SystemTools.Assembly.Finder.ExistsByName(assemblyName))
+			if (KSPe.Util.SystemTools.Assembly.Exists.ByName(assemblyName))
 			{
-				System.Reflection.Assembly assembly = KSPe.Util.SystemTools.Assembly.Finder.FindByName(assemblyName);
+				System.Reflection.Assembly assembly = KSPe.Util.SystemTools.Assembly.Find.ByName(assemblyName);
 				Log.detail("Found {0}", assembly.FullName);
 				return;
 			}
-			GUI.UnmetRequirementsShowStopperAlertBox.Show(assemblyName);
+			GUI.UnmetRequirementsShowStopperErrorBox.Show(assemblyName);
 		}
 	}
 }

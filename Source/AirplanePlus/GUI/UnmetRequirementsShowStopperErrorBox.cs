@@ -24,7 +24,7 @@ using KSPe.UI;
 
 namespace AirplanePlus.GUI
 {
-	internal class UnmetRequirementsShowStopperAlertBox
+	internal class UnmetRequirementsShowStopperErrorBox
 	{
 		private static readonly string MSG = @"Unfortunately Airplane+ is unable to proceed due unmet requirements!
 
@@ -34,7 +34,7 @@ You need to have {0} installed, otherwise this Add'On will not work as intended.
 
 		internal static void Show(string failedRequirement)
 		{
-			KSPe.Common.Dialogs.ShowStopperAlertBox.Show(
+			KSPe.Common.Dialogs.ShowStopperErrorBox.Show(
 				string.Format(MSG, failedRequirement),
 				string.Format(AMSG, failedRequirement),
 				() => { Application.Quit(); }
