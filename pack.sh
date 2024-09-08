@@ -7,5 +7,7 @@ IFS=$'\n\t'
 pwd=$(pwd)
 ./pack-full.sh
 cd $pwd
+./pack-experimental.sh
+cd $pwd
 ./pack-curse.sh
 cd $pwd

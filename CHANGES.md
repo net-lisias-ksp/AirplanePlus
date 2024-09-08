@@ -1,5 +1,12 @@
 # Airplane Plus :: Changes
 
+* 2024-0908: 26.6.2.2 (LisiasT) for KSP => 1.4.1
+	+ Incepting the `Experimental` program, for fast tracking possible solutions for the current structural problems on the current parts without compromising (too much) the main distribution.
+		- Reuse of these assets are unwise, because they can vanish, be renamed or change at any time. 
+	+ Currently into the `Experimental`:
+		- `CJFiftyOne` (WMB VI "Vortex" Engine ColdJ)
+		- `CJBiplanegear` (KS-H1 Fixed Landing Gear ColdJ)
+		- `SlantGearCJ` (KS-17 Slant Landing Gear (Rebuilt))
 * 2024-0218: 26.6.2.1 (LisiasT) for KSP => 1.4.1
 	+ Pulling a fast one: fixing the cause of the infamous TweakScale's warning `NULL ConfigNode for <part-path> (unholy characters on the name?). Trying partConfig instead!` at the same trying to salvage any current patchset, partset or UbioWeld made parts by keeping the meshes and textures on the original place.
 		- It's deceiving because the "problem" is still there, I only moved it around to a place where TweakScale will not complain.

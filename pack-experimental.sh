@@ -13,10 +13,10 @@ clean() {
 }
 
 pwd=$(pwd)
-FILE=${pwd}/Archive/$PACKAGE-$VERSION${PROJECT_STATE}.zip
-echo $FILE
+FILE=${pwd}/Archive/${PACKAGE}Experimental-$VERSION${PROJECT_STATE}.zip
 clean
-zip -r $FILE ./GameData/AirplanePlus/* -x ".*"
+cat "GameData/AirplanePlus/AirplanePlus.version" | sed 's/"Airplane Plus \/L"/"Airplane Plus \/L Experimental"/g' > "GameData/AirplanePlusExperimental/AirplanePlusExperimental.version"
+zip -r $FILE ./GameData/AirplanePlusExperimental* -x ".*"
 #zip -r $FILE ./PluginData/* -x ".*"
 #zip -r $FILE ./Extras/* -x ".*"
 zip $FILE INSTALL.md

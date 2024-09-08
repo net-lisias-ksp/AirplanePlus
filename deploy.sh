@@ -88,12 +88,19 @@ deploy_ext() {
 	fi
 }
 
+copylmj() {
+	local target=$1
+	cp $VERSIONFILE "$target"
+	cp CHANGE_LOG.md "$target"
+	cp README.md  "$target"
+	cp LICENSE* "$target"
+	cp NOTICE "$target"
+}
+
 check
-cp $VERSIONFILE "./GameData/$TARGETDIR"
-cp CHANGE_LOG.md "./GameData/$TARGETDIR"
-cp README.md  "./GameData/$TARGETDIR"
-cp LICENSE* "./GameData/$TARGETDIR"
-cp NOTICE "./GameData/$TARGETDIR"
+copylmj "./GameData/$TARGETDIR"
+copylmj "./GameData/${TARGETDIR}Experimental"
+cp INSTALL.md ./GameData
 
 for dll in $GD_DLLS ; do
     deploy_dev $dll
