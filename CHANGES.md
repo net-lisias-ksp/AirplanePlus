@@ -1,5 +1,7 @@
 # Airplane Plus :: Changes
 
+* 2024-1121: 26.6.2.2-HotFix (LisiasT) for KSP => 1.4.1
+	+ Fixes a borkage on the dependency management.
 * 2024-0908: 26.6.2.2 (LisiasT) for KSP => 1.4.1
 	+ Incepting the `Experimental` program, for fast tracking possible solutions for the current structural problems on the current parts without compromising (too much) the main distribution.
 		- Reuse of these assets are unwise, because they can vanish, be renamed or change at any time. 

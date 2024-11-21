@@ -1,5 +1,7 @@
 # Airplane Plus :: Change Log
 
+* 2024-1121: 26.6.2.2-HotFix (LisiasT) for KSP => 1.4.1
+	+ Fixes a borkage on the dependency management.
 * 2024-0918: 26.6.2.3 (LisiasT) for KSP => 1.4.1 EXPERIMENTAL
 	+ Updating the `SlantGearCJ` to 8th version.
 * 2024-0908: 26.6.2.2 (LisiasT) for KSP => 1.4.1
