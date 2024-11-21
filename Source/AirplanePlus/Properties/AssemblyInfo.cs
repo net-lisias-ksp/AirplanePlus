@@ -20,5 +20,9 @@ using System.Runtime.CompilerServices;
 [assembly: AssemblyVersion(AirplanePlus.Version.Number)]
 [assembly: AssemblyFileVersion(AirplanePlus.Version.Number)]
 [assembly: KSPAssembly("AirplanePlus", AirplanePlus.Version.major, AirplanePlus.Version.minor)]
-[assembly: KSPAssemblyDependency("KSPe", 2, 4)]
-[assembly: KSPAssemblyDependency("KSPe.UI", 2, 4)]
+#if KSPE
+[assembly: KSPAssemblyDependency("KSPe", 2, 5)]
+[assembly: KSPAssemblyDependency("KSPe.UI", 2, 5)]
+#else
+[assembly: KSPAssemblyDependency("KSPe.Light.APP", 2, 5)]
+#endif
