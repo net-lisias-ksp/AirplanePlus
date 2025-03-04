@@ -1,5 +1,11 @@
 # Airplane Plus :: Change Log
 
+* 2025-0303: 26.6.2.4 (LisiasT) for KSP => 1.4.1 EXPERIMENTAL
+	+ Small adjustments on `ModuleCargoBay` for
+		- `passengerdoor`
+		- `mk1cargodoorjr`
+	+ Adding proper `ModuleCargoBay` for `airramp`
+		- Thanks for [Manul](https://forum.kerbalspaceprogram.com/profile/189366-manul/) for [allowing us to use](https://forum.kerbalspaceprogram.com/topic/140262-14x-18x-airplane-plus-r264-fixed-issuesgithub-is-up-to-date-dec-21-2019/?do=findComment&comment=4444103) his `Dummy.mu`!
 * 2024-1121: 26.6.2.2-HotFix (LisiasT) for KSP => 1.4.1
 	+ Fixes a borkage on the dependency management.
 * 2024-0918: 26.6.2.3 (LisiasT) for KSP => 1.4.1 EXPERIMENTAL

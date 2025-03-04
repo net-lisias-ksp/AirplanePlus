@@ -13,9 +13,11 @@ clean() {
 }
 
 pwd=$(pwd)
+VERSIONFILE="${PACKAGE}Experimental.version"
+VERSION=$( cat $VERSIONFILE | tr '\n' ' ' | sed -n -E 's/^.*?"VERSION\":\{.*"MAJOR":([0-9]+?),.*?"MINOR":([0-9]+?),.*?"PATCH":([0-9]+?),.*?"BUILD":([0-9]+?).*?\}.*$/\1.\2.\3.\4/p' )
 FILE=${pwd}/Archive/${PACKAGE}Experimental-$VERSION${PROJECT_STATE}.zip
 clean
-cat "GameData/AirplanePlus/AirplanePlus.version" | sed 's/"Airplane Plus \/L"/"Airplane Plus \/L Experimental"/g' > "GameData/AirplanePlusExperimental/AirplanePlusExperimental.version"
+cp $VERSIONFILE ./GameData/AirplanePlusExperimental/
 zip -r $FILE ./GameData/AirplanePlusExperimental* -x ".*"
 #zip -r $FILE ./PluginData/* -x ".*"
 #zip -r $FILE ./Extras/* -x ".*"

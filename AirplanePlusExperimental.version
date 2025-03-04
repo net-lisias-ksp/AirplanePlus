@@ -1,0 +1,17 @@
+{
+	"NAME"		: "Airplane Plus /L EXPERIMENTAL",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/AirplanePlue/master/AirplanePlusExperimental.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/AirplanePlus/releases",
+
+	"VERSION":{
+		"MAJOR":26,
+		"MINOR":6,
+		"PATCH":2,
+		"BUILD":4
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":4,
+		"PATCH":1
+		}
+}
