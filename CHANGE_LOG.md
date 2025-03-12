@@ -1,5 +1,15 @@
 # Airplane Plus :: Change Log
 
+* 2016-1014 : Release 5.0 for KSP 1.2.1
+	- Added WMB VI "Vortex" Engine based on Heinkel He 51
+	- Added RR "Count" K.XI Engine based on Hawker Fury/Hawker Nimrod/Hawker Hart
+	- Added "Ascender" variant to the MeshSwitch variants of K1710, a pusher design
+		- still needs the thrust to be reversed
+	- Added "Saab 21" variant as a MeshSwitch variant of KB 601, a pusher design
+		- still needs the thrust to be reversed
+	- Modified the folder structure to easily delete parts not wanted
+	- folders are sorted by age
+	- Early flight engines now have a lower speed limit and less responsive than Pre-modern engines
 * 2016-0801 : Release 4.0 for KSP 1.1.3
 	- Added KM-105P "Silver Crow" Engine based on Yakovlev Yak-3
 	- Added K-25V "Cyclone" Radial Engine based on Polikarpov I-153/I-16 (Contains MeshSwitch)
