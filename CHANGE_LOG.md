@@ -1,5 +1,18 @@
 # Airplane Plus :: Change Log
 
+* 2017-0130 : Release 11.0 for KSP 1.2.2
+	- Added Size 2 Viewer's Cockpit based on Mi-8 Hip
+	- Added J-56 "Lotus" High-Bypass Turbofan Engine, based on Airbus 	- A320's CFM-56
+	- Added KV2-117A "Hippo" Turboshaft Engine based on Mi-8 Hip, as well as its tail rotor, KV2-117A Control Rotor
+	- Added KV3-117 "Twinblade" Coaxial Turboshaft Engine, based on Kamov Ka-52
+	- Fixed issue where navball will be reoriented in a wrong direction when reverting if Airplane Plus cockpit is used - for all cockpits
+	- Fixed almost lack of roll on Size 2 cockpits
+	- Fixed missing intakes for MK2 Non-commercial Cockpit
+	- Fixed transparent IVA on droopnose (concorde) cockpit
+	- Fixed badly placed doors for Size 2 Passenger Cabin IVA
+	- Fixed and filled hollow colliders for cockpits to avoid problems with FAR
+	- Fixed wrong mirror on Elevon 2B (WARNING: You will need to remake crafts with this or it will be rotated in the wrong direction for existing crafts)
+	- Actually updated the Part Deleter's Guide 
 * 2017-0114 : Release 10.0 for KSP 1.2.2
 	- Added Size 2 Commercial Cockpit based on Airbus Cockpits*
 	- Added Size 2 Droopnose Cockpit based on Concorde (with animated nose droop)
