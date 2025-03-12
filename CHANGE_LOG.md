@@ -1,5 +1,25 @@
 # Airplane Plus :: Change Log
 
+* 2017-0519 : Release 15.0 for KSP 1.2.2
+	- Added Round-Deluxe Winglet
+	- Added Mk0 Tail Connector*
+		- can be attached and clipped halfway radially and be used as a creative razorback.
+	- Added Mk0 Tail Connector Short
+		- can be attached and clipped halfway radially and be used as a creative razorback.
+	- Added Mk0 Junior Liquid Fuel Fuselage
+		- can be attached and clipped halfway radially and be used as a creative razorback.
+	- Added Structural Hull S2 (2 Variants)
+		- sized 2.5m set for cargo management, like Mk3, but fits with existing parts
+	- Added Size 2 Cargo Ramp
+		- sized 2.5m set for cargo management, like Mk3, but fits with existing parts
+	- Added Size 2 Cargo Bay CRG-15
+		- sized 2.5m set for cargo management, like Mk3, but fits with existing parts
+	- Added KS-H1 Fixed Landing Gear, a landing gear for biplane designs
+	- Added KS-V1 Fixed Landing Gear, a landing gear for helicopter designs (based on UH-60)
+	- Fixed issue where Tiger engine was hard to select
+	- Node added for the Half Mk2 Adapter for reasons unknown, it's now possible to add a boom behind the cockpit
+	- Smoothed performance curves for early engines and gave a boost for them (now quite more powerful and can handle a little higher AoA)
+	- Weight variations are now a thing in early engines, paired with the smoother curves and performance changes mentioned
 * 2017-0330 : Release 14.1 for KSP 1.2.2
 	- Fixed KT6C "Kitty" Turboshaft Engine mirroring issue (qromodynmc)
 	- Fixed node sizes on various parts (AccidentalDisassembly)
