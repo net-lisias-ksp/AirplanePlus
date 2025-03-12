@@ -1,5 +1,5 @@
 # allow git to guess types we don't specify
-*          text=auto
+#*          text=auto
 
 # Source code
 *.c        text
@@ -22,7 +22,6 @@
 *.md       text
 *.txt      text
 *.resx     text
-*.craft    text
 
 # Image and other binaries
 *.png     binary
@@ -30,9 +29,6 @@
 *.mu      binary
 *.dll     binary
 *.bundle  binary
-*.wav     binary
-*.mbm     binary
-*.gif     binary
 
 # Compression utilities
 *.zip     binary
