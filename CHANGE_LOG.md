@@ -1,5 +1,15 @@
 # Airplane Plus :: Change Log
 
+* 2017-1003 : Release 18.0 for KSP 1.3.1
+	- Added Mk2/Object 1.44 Non-Commercial Cockpit based on MiG 1.44
+	- Added KS-130 Low Landing Gear based on C-130 Front Landing Gear
+	- Added KS-130-S2 Low Landing Gear based on C-130 Rear Landing Gear
+	- Added KS-29 Tall Landing Gear based on MiG-29 Front Landing Gear
+	- Added nodes to some Mk2/H parts making it possible to make Mk2 with two Mk2/H
+	- Added cockpit light to Mk3 Cargo Cockpit
+	- Fixed issue where Delta-Advanced Winglet control surfaces moved in reverse visually
+	- Further improvements in sound for some helicopter rotors
+	- Synchronized rotary engine spin with propellers when shutting down 9J "Baron" Rotary Engine
 * 2017-0727 : Release 17.0 for KSP 1.3.0
 	- Added Delta-Advanced Winglet based on MiG-29 Tailfin
 	- Added Basic Curve Winglet based on P-40 Warhawk Tailfin
