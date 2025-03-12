@@ -1,5 +1,15 @@
 # Airplane Plus :: Change Log
 
+* 2016-0801 : Release 4.0 for KSP 1.1.3
+	- Added KM-105P "Silver Crow" Engine based on Yakovlev Yak-3
+	- Added K-25V "Cyclone" Radial Engine based on Polikarpov I-153/I-16 (Contains MeshSwitch)
+	- Added 8A "Spud" Engine based on SPAD S.VII
+	- Added 9J "Baron" Rotary Engine based on Fokker DR.I (Contains 	- MeshSwitch and Rotary Engine rotation)
+	- Made for better tech tree support especially for early flight
+	- Adjusted costs to better match other parts and economy when in career mode
+	- Reconfigured engine performance curves, prepare to have a different aircraft setup
+	- Normalized Engine Sounds to match KSP loudness a bit
+	- Gave propeller and sound better synchronization on most engines
 * 2016-0707 : Release 3.1 for KSP 1.1.3
 	- Fixed plenty of thrustTransforms to enable thrust reversal.
 * 2016-0622 : Release 3.0 for KSP 1.1.3
