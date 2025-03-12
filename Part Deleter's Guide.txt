@@ -41,6 +41,7 @@ COMMAND
 	fightercockpit			-		MK1 Non-Commercial Cockpit
 	fighterinlinecockpit		-		MK1 Inline Non-Commercial Cockpit
 	galaxycockpit			-		Mk3 Cargo Cockpit
+	hueycockpit			-		MK3S1.5 Viewer's Cockpit
 	hipcockpit			-		Size 2 Viewer's Cockpit
 	mk1drone (model)		-		MK1 Drone Core
 	mk1drone (modelsas)		-		Mk1 Inline Stabilizer
@@ -67,6 +68,24 @@ STRUCTURE AND FUEL
 	Mk2HParts (modelbody)		-		Mk2h Liquid Fuel Fuselage
 	Mk2HParts (modelboom)		-		Mk2/H Flat Boom
 	Mk2HParts (modelmk2)		-		Mk2/H to Mk2 Adapter
+	r22set (mk3s0)			-		Mk3S0 Liquid Fuel Fuselage
+	r22set (mk3s0booma)		-		Mk3S0 Tail Connector A
+	r22set (mk3s0boomb)		-		Mk3S0 Tail Connector B
+	r22set (mk3s0jr)		-		Mk3S0 Liquid Fuel Fuselage Junior
+	r22set (mk3s0-s0)		-		Mk3S0 to 0.625m Adapter
+	r22set (mk3s1)			-		Mk3S1 Liquid Fuel Fuselage
+	r22set (mk3s1booma)		-		Mk3S1 Tail Connector A
+	r22set (mk3s1boomb)		-		Mk3S1 Tail Connector B
+	r22set (mk3s1jr)		-		Mk3S1 Liquid Fuel Fuselage Junior
+	r22set (mk3s1p5)		-		Mk3S1.5 Liquid Fuel Fuselage
+	r22set (mk3s1p5doorbase)	-		Mk3S1.5 Cargo Bay
+	r22set (mk3s1p5hull)		-		Mk3S1.5 Structural Fuselage
+	r22set (mk3s1p5jr)		-		Mk3S1.5 Liquid Fuel Fuselage Junior
+	r22set (mk3s1p5-mk3s1)		-		Mk3S1.5-Mk3S1 Liquid Fuel Fuselage
+	r22set (mk3s1p5-s1p5)		-		Mk3S1.5 to 1.875m Adapter
+	r22set (mk3s1-s1)		-		Mk3S1 to 1.25m Adapter
+	r22set (s1p5)			-		1.875m Liquid Fuel Fuselage
+	r22set (s1p5jr)			-		1.875m Liquid Fuel Fuselage Junior
 	ShortBoom 			- 		Short Tail Connector B
 	ShortBoom2 			- 		Short Tail Connector A
 	size2boom (modela)		-		Tail Connector Size 2A
@@ -91,7 +110,14 @@ WHEEL
 	herculesgear (model)		-		KS-130-S2 Low Landing Gear
 	herculesgear (modelfront)	-		KS-130 Low Landing Gear
 	miggear				-		KS-29 Tall Landing Gear
-
+	sharedgear (airbusgear)		-		KS-320 Asymmetric Landing Gear
+	sharedgear (b29gear)		-		KS-FAT-29 Huge Landing Gear
+	sharedgear (fightergear)	-		KS-51 Landing Gear
+	sharedgear (herculesfrontgear)	-		KS-130 Low Landing Gear
+	sharedgear (herculesgear)	-		KS-130-S2 Low Landing Gear
+	sharedgear (sidegear)		-		KS-16 Slant Landing Gear
+	sharedgear (x1frontgear)	-		KS-X1 Steerable Landing Gear
+	
 ENGINE
 	EARLY (WWI Engines)
 		51 		- 		WMB VI "Vortex" Engine
@@ -101,6 +127,7 @@ ENGINE
 		spad 		- 		8A "Spud" Engine
 
 	MODERN (Turboprops and Jets)
+		609prop		-		KT6C "Kitty" Turboshaft Engine
 		CFM56		-		J-56 "Lotus" High-Bypass Turbofan Engine
 		f5jet		-		J-85 "Tiger" Afterburning Turbofan
 		hercules	-		RR K56 "Titan" Turboprop Engine
@@ -123,9 +150,11 @@ ENGINE
 		bellprop 	- 		RR K250 "Maverick" Turboshaft Engine
 		belltailprop 	- 		RR K250-S Control Rotor
 		blackhawkprop	-		K700 "Hawk" Turboshaft Engine
-		coaxialprop	-		KV3-117 "Twinblade" Coaxial Turboshaft Engine
 		chinookprop	-		L K55 "Gemini" Turboshaft Engine
+		coaxialprop	-		KV3-117 "Twinblade" Coaxial Turboshaft Engine
 		hipprop		-		KV2-117A "Hippo" Turboshaft Engine
-		hiptailprop	-		KV2-117A Control Rotor
+		hiptailprop	-		KV2-117A-S Control Rotor
+		hueyprop	-		L K53 "Valkyrie" Turboshaft Engine
+		hueytailprop	-		L K53-S Control Rotor
 		powerprop 	- 		K73 "Beluga" Turboshaft Engine
 		powertailprop 	- 		K73-S Control Rotor

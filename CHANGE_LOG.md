@@ -1,5 +1,31 @@
 # Airplane Plus :: Change Log
 
+* 2018-0617 : Release 22.0 for KSP 1.4.3
+	- Added MK3S1.5 Viewer's Cockpit based on the UH-1 Iroquois/Huey
+	- Added L K53 "Valkyrie" Turboshaft Engine based on the UH-1 Iroquois/Huey as well as its tail rotor, L K53-S Control Rotor
+	- Added sound patch for all stock jet engines (Can be deleted on AirplanePlus/Sounds/Patch)
+	- Added Mk3S0 Liquid Fuel Fuselage
+	- Added Mk3S0 Tail Connector A
+	- Added Mk3S0 Tail Connector B
+	- Added Mk3S0 Liquid Fuel Fuselage Junior
+	- Added Mk3S0 to 0.625m Adapter
+	- Added Mk3S1 Liquid Fuel Fuselage
+	- Added Mk3S1 Tail Connector A
+	- Added Mk3S1 Tail Connector B
+	- Added Mk3S1 Liquid Fuel Fuselage Junior
+	- Added Mk3S1 to 1.25m Adapter
+	- Added Mk3S1.5 Liquid Fuel Fuselage
+	- Added Mk3S1.5 Cargo Bay
+	- Added Mk3S1.5 Structural Fuselage
+	- Added Mk3S1.5 Liquid Fuel Fuselage Junior
+	- Added Mk3S1.5-Mk3S1 Liquid Fuel Fuselage
+	- Added Mk3S1.5 to 1.875m Adapter
+	- Added 1.875m Liquid Fuel Fuselage
+	- Added 1.875m Liquid Fuel Fuselage Junior
+	- Changed name of KV2-117A Control Rotor to KV2-117A-S Control Rotor
+	- Changed some of the hollow parts' drag cubes thanks to neistridlar
+	- Fixed cockpits spawning as "Ships" instead of "Planes"
+	- Fixed Mk1 Nose Trunk CRG-NT having convex collider problems making it spawn high
 * 2018-0318 : Release 21.1 for KSP 1.4.1
 	- Ported to 1.4.x
 	- fixed version changes issues
