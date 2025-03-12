@@ -1,5 +1,8 @@
 # Airplane Plus :: Change Log
 
+* 2017-0330 : Release 14.1 for KSP 1.2.2
+	- Fixed KT6C "Kitty" Turboshaft Engine mirroring issue (qromodynmc)
+	- Fixed node sizes on various parts (AccidentalDisassembly)
 * 2017-0329 : Release 14.0 for KSP 1.2.2
 	- Added Mk3 Cargo Cockpit based on C-5 Galaxy
 	- Added KT6C "Kitty" Turboshaft Engine, a tilt-rotor radial engine based on AW609, a VTOL Engine
