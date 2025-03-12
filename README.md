@@ -22,11 +22,4 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 	* [1.6](https://gitlab.com/net-lisias-ksph/AirplanePlus/tree/KSP/1.6)
 * [Change Log](./CHANGE_LOG.md)
 * [Binaries](https://gitlab.com/net-lisias-ksph/AirplanePlus/tree/Archive)
-
-
-## References
-
-* [KSP Forum](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
-* Official Distribution Sites
-	* [Spacedock](https://spacedock.info/mod/716/Airplane%20Plus)
-	* [CurseForge](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-144-airplane-plus-r230-full-1875m-parts-crj-series-new-jet-engine-fixes-jul-20-2018/)
+* [Front Page](https://gitlab.com/net-lisias-ksph/AirplanePlus)
