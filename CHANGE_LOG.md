@@ -1,5 +1,13 @@
 # Airplane Plus :: Change Log
 
+* 2017-0329 : Release 14.0 for KSP 1.2.2
+	- Added Mk3 Cargo Cockpit based on C-5 Galaxy
+	- Added KT6C "Kitty" Turboshaft Engine, a tilt-rotor radial engine based on AW609, a VTOL Engine
+	- Added J-85 "Tiger" Afterburning Turbofan based on F-5 Freedom Fighter/Tiger II, sized 0.625m
+	- Added J-119 "Cheetah" Afterburning Turbofan based on F-22 Raptor
+	- Added Nosecone Mk1 also based on the F-22 Raptor (qromodynmc)
+	- Fixed Mk1 Intake having reversed intakeTransform
+	- Early engines now all have significantly more powerful stationary thrust
 * 2017-0221 : Release 12.0 for KSP 1.2.2
 	- Added Mk1 Intake with meshswitches based on Early MiG (15/17) and F-86 Sabre
 	- Added Size 2 Radial Liquid Fuel Mount, the bulky thing on airliner wings

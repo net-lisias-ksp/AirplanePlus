@@ -19,6 +19,7 @@ AERO
 	flaps (modelspoiler)	-		S.P.O.I.L.E.R
 	flaps (modelstraight)	-		Leading Edge Slat Straight
 	intake			-		Mk1 Intake
+	nosecone		-		Nosecone Mk1
 	smallwings (elevon2b)	-		Elevon 2B
 	smallwings (halfwing)	-		Wing Connector Type F
 	smallwings (halfwinglw)	-		Wing Connector Type G
@@ -36,6 +37,7 @@ COMMAND
 	falconcockpit		-		Mk2 Non-Commercial Cockpit
 	fightercockpit		-		MK1 Non-Commercial Cockpit
 	fighterinlinecockpit	-		MK1 Inline Non-Commercial Cockpit
+	galaxycockpit		-		Mk3 Cargo Cockpit
 	hipcockpit		-		Size 2 Viewer's Cockpit
 	mk1drone		-		MK1 Drone Core
 	oh6cockpit		-		MK1 Viewer's Cockpit II
@@ -79,9 +81,11 @@ ENGINE
 
 	MODERN (Turboprops and Jets)
 		CFM56		-		J-56 "Lotus" High-Bypass Turbofan Engine
+		f5jet		-		J-85 "Tiger" Afterburning Turbofan
 		hercules	-		RR K56 "Titan" Turboprop Engine
 		KP-12 		- 		KP-12 "Bear" Kontraprop Engine
 		predator	-		K76 "Predator" Turboprop Engine
+		raptorjet	-		J-119 "Cheetah" Afterburning Turbofan
 		tbmProp 	- 		KT6A "Kitty" Turboprop Engine
 
 	PRE-MODERN (WWII Engines)
