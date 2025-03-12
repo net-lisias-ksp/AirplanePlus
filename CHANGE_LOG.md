@@ -1,5 +1,12 @@
 # Airplane Plus :: Change Log
 
+* 2017-0602 : Release 16.0 for KSP 1.3.0
+	- Revised the way all helicopter rotors work, now with hovering (not for use with tandem rotors)
+		- Revision will likely break the way it worked before, thrust reversals are removed, the functions are changed, etc.
+	- Revised most of the IVAs other than Size 2 cockpits that isn't Viewer's as well as Mk3 (includes click-able IVA props, working instrument display)
+	- Added Mk1 Inline Stabilizer for use with stabilizing VTOL aircrafts
+	- Updated Firespitter to fix the sound only playing in one channel (working on lowering the volume of parts if I remember)
+	- Updated Firespitter also fixed the missing CoT when using rotorwings
 * 2017-0519 : Release 15.0 for KSP 1.2.2
 	- Added Round-Deluxe Winglet
 	- Added Mk0 Tail Connector*
