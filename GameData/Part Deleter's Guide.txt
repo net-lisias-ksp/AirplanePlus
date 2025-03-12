@@ -1,0 +1,61 @@
+Welcome to the part info. If you want to delete specific folders or want info on the parts in GameData,
+You refer to this.
+
+All the parts are under GameData/AirplanePlus/Parts
+
+AERO
+	bigwing			-		FAT-T3R Aeroplane Main Wing
+
+COMMAND
+	bellCockpit 		- 		Mk1 Viewer's Cockpit
+	mk1drone		-		MK1 Drone Core
+	zeroCockpit 		- 		MK1/0 Caged Inline Cockpit
+
+PAYLOAD
+	Mk1Door			-		Mk1 Cargo Bay CRG-50-1
+	Mk1DroneDoor		-		Mk1 Nose Trunk CRG-NT
+
+
+STRUCTURE AND FUEL
+	Mk1JuniorFuselage 	- 		Mk1 Junior Fuselage
+	Mk2HParts (modeladapter)-		Mk2/H to 1.25m Adapter
+	Mk2HParts (modelbody)	-		Mk2/H Liquid Fuel Fuselage
+	Mk2HParts (modelboom)	-		Mk2/H Flat Boom
+	Mk2HParts (modelmk2)	-		Mk2/H to Mk2 Adapter
+	ShortBoom 		- 		Short Tail Connector B
+	ShortBoom2 		- 		Short Tail Connector A	
+
+UTILITY
+	Skid 			- 		Anti-Roll Landing Skids
+
+
+ENGINE
+	EARLY (WWI Engines)
+		51 		- 		WMB VI "Vortex" Engine
+		chaika  	- 		K-25V "Cyclone" Radial Engine
+		fokker  	- 		9J "Baron" Rotary Engine
+		hawker  	-		RR "Count" K.XI Engine
+		spad 		- 		8A "Spud" Engine
+
+	MODERN (Turboprops)
+		hercules	-		RR K56 "Titan" Turboprop Engine
+		KP-12 		- 		KP-12 "Bear" Kontraprop Engine
+		predator	-		K76 "Predator" Turboprop Engine
+		tbmProp 	- 		KT6A "Kitty" Turboprop Engine
+
+	PRE-MODERN (WWII Engines)
+		109 		- 		KB 601 "Tornado" Engine
+		Corsair 	- 		K-2800 "Bumblebee" Radial Engine
+		K1710 		- 		K1710 "Whirlwind" Engine
+		Marlin 		- 		RR "Marlin" Engine
+		Spitfire 	- 		RR "Kraken" Engine
+		Yak 		- 		KM-105P "Silver Crow" Engine
+		Zero 		- 		K-14 "Divine Wind" Radial Engine
+
+	ROTORWING (Helicopters)
+		bellprop 	- 		RR K250 "Maverick" Turboshaft Engine
+		belltailprop 	- 		RR K250-S Control Rotor
+		blackhawkprop	-		K700 "Hawk" Turboshaft Engine
+		chinookprop	-		L K55 "Gemini" Turboshaft Engine
+		powerprop 	- 		K73 "Beluga" Turboshaft Engine
+		powertailprop 	- 		K73-S Control Rotor

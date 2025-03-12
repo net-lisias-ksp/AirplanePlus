@@ -1,5 +1,26 @@
 # Airplane Plus :: Change Log
 
+* 2016-1211 : Release 7.0 for KSP 1.2.2
+	- Added RR K56 "Titan" Turboprop Engine based on C-130 Hercules
+Added K76 "Predator" Turboprop Engine based on MQ-9 Predator B/Reaper as well as its tractor variant (OV-10 Bronco)
+		still needs the thrust to be reversed
+	- Added L K55 "Gemini" Turboshaft Engine based on CH-47 Chinook
+		- meshswitch capable to remove engines
+	- Added K700 "Hawk" Turboshaft Engine based on UH-60 Black Hawk
+	- Added Mk1 Cargo Bay CRG-50-1, a sliding door cargo bay
+	- Added Mk1 Nose Trunk CRG-NT, cargo bay based off the front hull of Drones such as Predator, Reaper, Global Hawk etc.
+	- Added MK1 Drone Core, almost similar function with stock MK2 Drone Core
+	- Added FAT-T3R Aeroplane Main Wing, a non-swept aeroplane main wing based off C-130
+	- Added Anti-Roll Landing Skids
+	- Added Mk2/H Liquid Fuel Fuselage, a halved Mk2 fuselage.
+	- Added Mk2/H to 1.25m Adapter, adapter from half Mk2 to 1.25
+	- Added Mk2/H Flat Boom, a tail boom for Mk2/H
+	- Added Mk2/H to Mk2 Adapter, adapter to regular Mk2 size
+	- Fixed price similarities and inconsistencies
+	- Fixed weight and rebalanced
+	- Fixed MK1/0 Caged Inline Cockpit navball orientation change on revert
+	- Recalculated Mk1 Junior Tank capacity
+	- Increased a bit of stationary thrust for all engines.
 * 2016-1120 : Release 6.0 for KSP 1.2.1
 	- Added KP-12 "Bear" Kontraprop Engine based on Tu-95
 	- Added KT6A "Kitty" Turboprop Engine based on TBM 900, contains a pusher variant*
