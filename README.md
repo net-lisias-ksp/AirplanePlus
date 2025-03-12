@@ -1,8 +1,9 @@
-# Airplane Plus :: Source 1.8
+# Airplane Plus :: Sources
 
 This is a unofficial, non authorized repository for Airplane Plus for historical reference and troubleshooting.
 
-## KSP 1.8
+
+## In a hurry
 
 * copy and redistribute the material in any medium or format
 
