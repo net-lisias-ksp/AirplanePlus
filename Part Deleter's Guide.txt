@@ -28,13 +28,14 @@ AERO
 	smallwings (wing4)		-		Wing Connector Type I
 	smallwings (wing6)		-		Wing Connector Type J
 	smallwings (wing6-2)		-		Wing Connector Type K
-	stubbytinynose			-		Small Nose Cone Stubby
-
+	stubbytinynose (model)		-		Small Nose Cone Stubby
+	stubbytinynose (modelb)		-		Small Nose Cone B
 COMMAND
 	144cockpit			-		Mk2/Object 1.44 Non-Commercial Cockpit
 	airbuscockpit			-		Size 2 Commercial Cockpit
 	b29cockpit			-		Size 2 Viewer's Cockpit II
 	bellcockpit 			- 		Mk1 Viewer's Cockpit
+	bombardiercockpit		-		Size 1.5 Cockpit
 	citationcockpit			-		MK1 Business Cockpit
 	concordecockpit			-		Size 2 Droopnose Cockpit
 	falconcockpit			-		Mk2 Non-Commercial Cockpit
@@ -59,6 +60,14 @@ PAYLOAD
 
 
 STRUCTURE AND FUEL
+	bombardierset (modelcabin)	-		Size 1.5 Crew Cabin
+	bombardierset (modelconea)	-		Size 1.5 Tail Connector A
+	bombardierset (modelconeashort) -		Size 1.5 Tail Connector A Short
+	bombardierset (modelconeb)	-		Size 1.5 Tail Connector B
+	bombardierset (modelconebshort) -		Size 1.5 Tail Connector B Short
+	bombardierset (modeldoor)	-		Size 1.5 Air Ramp
+	bombardierset (modelhull)	-		Size 1.5 Structural Fuselage Junior
+	bombardierset (modelhulllong)	-		Size 1.5 Structural Fuselage
 	mk0radial (modelboom)		-		Mk0 Tail Connector
 	mk0radial (modelhalfmini)	-		Mk0 Junior Liquid Fuel Fuselage
 	mk0radial (modelshortboom)	-		Mk0 Tail Connector Short
@@ -128,6 +137,7 @@ ENGINE
 
 	MODERN (Turboprops and Jets)
 		609prop		-		KT6C "Kitty" Turboshaft Engine
+		CF34		-		J-34 "Chevron" High-Bypass Turbofan Engine
 		CFM56		-		J-56 "Lotus" High-Bypass Turbofan Engine
 		f5jet		-		J-85 "Tiger" Afterburning Turbofan
 		hercules	-		RR K56 "Titan" Turboprop Engine

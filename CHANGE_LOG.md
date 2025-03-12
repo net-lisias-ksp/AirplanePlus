@@ -1,5 +1,21 @@
 # Airplane Plus :: Change Log
 
+* 2018-0720 : Release 23.0 for KSP 1.4.4
+	- Added Size 1.5 Cockpit based on the CRJ series
+	- Added J-34 "Chevron" High-Bypass Turbofan Engine based on E-170's CF34 as well as CRJ-900
+	- Added Size 1.5 Crew Cabin
+	- Added Size 1.5 Air Ramp
+	- Added Size 1.5 Structural Fuselage
+	- Added Size 1.5 Structural Fuselage Junior
+	- Added Small Nose Cone B
+	- Added Size 1.5 Tail Connector A
+	- Added Size 1.5 Tail Connector B
+	- Added Size 1.5 Tail Connector A Short
+	- Added Size 1.5 Tail Connector B Short
+	- Fixed 1.875m Liquid Fuel Fuselage having no colliders
+	- Fixed Mk3S1.5 Structural Fuselage collider preventing entry inside the hull
+	- Fixed Mk1 Inline Stabilizer weight being too heavy
+	- Changed some tech tree distributions
 * 2018-0617 : Release 22.0 for KSP 1.4.3
 	- Added MK3S1.5 Viewer's Cockpit based on the UH-1 Iroquois/Huey
 	- Added L K53 "Valkyrie" Turboshaft Engine based on the UH-1 Iroquois/Huey as well as its tail rotor, L K53-S Control Rotor
