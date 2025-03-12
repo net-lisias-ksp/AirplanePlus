@@ -1,5 +1,16 @@
 # Airplane Plus :: Change Log
 
+* 2018-0123 : Release 20.0 for KSP 1.3.1
+	- Added KS-320 Assymetric Landing Gear based on the Airbus A320 Rear Landing Gear
+	- Added KS-FAT-29 Huge Landing Gear based on the B-29 Superfortress Rear Landing Gear
+	- Added KS-51 Landing Gear based on the P-51 Mustang Wing Landing Gear
+	- Added KS-16 Slant Landing Gear based on the F-16 Fighting Falcon Rear Landing Gear
+	- Added KS-X1 Steerable Landing Gear based on the Bell X-1 Front Landing Gear
+	- Added KS-X1 Assymetric Landing Gear based on the Bell X-1 Rear Landing Gear
+	- Fixed Size 2 Cargo Bay CRG-15 having aerodynamics, animation and clamping relations (Usgiyi)
+	- Fixed intake texture of the K76 "Predator" Turboprop Engine (Citizen247)
+	- Fixed Short Tail Connector Size 2A having no collider (Citizen247)
+	- Closed the collider of the 9J "Baron" Rotary Engine for FAR users
 * 2017-1107 : Release 19.0 for KSP 1.3.1
 	- Added Size 2 Viewer's Cockpit II based on B-29 Superfortress
 	- Added MK1 Supersonic Cockpit based on Bell X-1
