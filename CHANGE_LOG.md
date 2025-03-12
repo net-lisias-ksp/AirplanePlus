@@ -1,5 +1,12 @@
 # Airplane Plus :: Change Log
 
+* 2017-0205 : Release 11.1 for KSP 1.2.2
+	- Buffed all helicopter main rotors to have 50% more from its base power
+	- Fixed no hatch for Size 2 Viewer's Cockpit
+	- Fixed Blank texture for Brand Decal on CFM56 to show up transparent texture instead of white and black
+	- Additional changelog not added from last release:
+	- Added ability to search for real names to see specific parts (i.e, Airbus, Falcon, Fighter, etc)
+	- Fixed Size 2 Non-commercial cockpit to have only one crew
 * 2017-0130 : Release 11.0 for KSP 1.2.2
 	- Added Size 2 Viewer's Cockpit based on Mi-8 Hip
 	- Added J-56 "Lotus" High-Bypass Turbofan Engine, based on Airbus 	- A320's CFM-56
