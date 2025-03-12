@@ -1,5 +1,8 @@
 # Airplane Plus :: Change Log
 
+* 2019-1221: 26.4 (blackheart612) for KSP 1.8.1
+	+ Fixed Squad's new path for cone textures wrongly referenced in the config
+	+ Fixed J-34 "Chevron" High-Bypass Turbofan Engine having Jettison Module when not needed
 * 2019-1212: 26.3 (blackheart612) for KSP 1.8.0
 	+ DDS conversion of some of the files to DXT5 (klgraham1013)
 	+ Fixes on modulecargobay and bulkheadprofiles for payload parts*(Jognt)
