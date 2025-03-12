@@ -1,5 +1,15 @@
 # Airplane Plus :: Change Log
 
+* 2019-0321: 26.0 (blackheart612) for KSP 1.6.1
+	+ Completely Reworked K1710 "Whirlwind" Engine - now with a total of 6 variants*
+		- Last 3 variants will include Mk3 version of the first 3
+	+ Added J-56 "Lotus" High-Bypass Turbofan Engine variant removing the pylons
+	+ Fixed Size 1 100-KE Auxiliary Power Engine having wrong attachment points
+	+ Fixed Size 2 Non-Commercial Cockpit textures
+	+ Updated all Auxiliary Power Engine wrong Center of Mass
+	+ Updated J-34 "Chevron" High-Bypass Turbofan Engine wrong Center of Mass
+	+ Updated all hollow parts and hollow parts with animated doors' Drag Cubes for better Aero
+	+ Updated Firespitter to fix issue where choosing any other categorization except default will break the part catalog
 * 2019-0131: 25.0 (blackheart612) for KSP 1.6.
 	+ Added Size 2 Non-Commercial Cockpit based on C-130 Hercules
 	+ Added Size 1 100-KE Auxiliary Power Engine based on Honeywell RE-100 and RE-220 APUs
