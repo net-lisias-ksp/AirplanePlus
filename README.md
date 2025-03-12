@@ -1,8 +1,9 @@
-# Airplane Plus :: Source 1.6
+# Airplane Plus :: Sources
 
 This is a unofficial, non authorized repository for Airplane Plus for historical reference and troubleshooting.
 
-This AddOn is (C) [blackheart612](https://spacedock.info/profile/blackheart612) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?), what allows you to:
+
+## In a hurry
 
 * copy and redistribute the material in any medium or format
 
