@@ -1,0 +1,5 @@
+This is a fixed version of snjos firespitter dll by RadarManFromTheMoon to fix the tail-rotor-producing-thrust-only-in-one-direction issue.  It's been combined with the fixed USI-Kolonization-Systems Firespitter.dll by Ramarren.
+
+See http://forum.kerbalspaceprogram.com/threads/76668-0-90-Kerbal-Aircraft-Expansion-%28KAX%29-v2-3-3?p=1649238&viewfull=1#post1649238 
+and http://forum.kerbalspaceprogram.com/threads/79588-0-90-USI-Kolonization-Systems-%28MKS-OKS%29-%280-22-4%29-2015-01-27?p=1725847&viewfull=1#post1725847
+for further information
