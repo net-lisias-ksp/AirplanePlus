@@ -1,5 +1,19 @@
 # Airplane Plus :: Change Log
 
+* 2017-0221 : Release 12.0 for KSP 1.2.2
+	- Added Mk1 Intake with meshswitches based on Early MiG (15/17) and F-86 Sabre
+	- Added Size 2 Radial Liquid Fuel Mount, the bulky thing on airliner wings
+	- Added FAT wings A to G variants, Airliner type modular wings capable of holding fuel
+	- Added Trailing Edge Two-slot Flap
+	- Added Trailing Edge Slotted Flap
+	- Added Leading Edge Krueger Flap
+	- Added Leading Edge Slat Straight
+	- Added S.P.O.I.L.E.R
+	- Added Elevon 0, a halved Elevon 1 (Aerospacer)
+	- Modified Size 2 Commercial Cockpit mesh to have a better nose
+	- Fixed price of Junior Mk1 Fuel Tank (fourfa)
+	- Fixed a misplaced CoL on a wing segment
+	- Regulated wing segment prices
 * 2017-0205 : Release 11.1 for KSP 1.2.2
 	- Buffed all helicopter main rotors to have 50% more from its base power
 	- Fixed no hatch for Size 2 Viewer's Cockpit

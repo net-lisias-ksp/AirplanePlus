@@ -5,6 +5,20 @@ All the parts are under GameData/AirplanePlus/Parts
 
 AERO
 	bigwing			-		FAT-T3R Aeroplane Main Wing
+	elevonhalf		-		Elevon 0
+	fatwings (model0)	-		FAT-A Wing Connector
+	fatwings (model1)	-		FAT-B Wing Connector
+	fatwings (model2)	-		FAT-C Wing Connector
+	fatwings (model3)	-		FAT-D Wing Connector
+	fatwings (model4)	-		FAT-E Wing Connector
+	fatwings (model5)	-		FAT-F Wing Connector
+	fatwings (model6)	-		FAT-G Wing Connector
+	flaps(modeldoublefowler)-		Trailing Edge Two-slot Flap
+	flaps (modelfowler)	-		Trailing Edge Slotted Flap		
+	flaps (modelkrueger)	-		Leading Edge Krueger Flap
+	flaps (modelspoiler)	-		S.P.O.I.L.E.R
+	flaps (modelstraight)	-		Leading Edge Slat Straight
+	intake			-		Mk1 Intake
 	smallwings (elevon2b)	-		Elevon 2B
 	smallwings (halfwing)	-		Wing Connector Type F
 	smallwings (halfwinglw)	-		Wing Connector Type G
@@ -47,6 +61,7 @@ STRUCTURE AND FUEL
 	ShortBoom2 		- 		Short Tail Connector A
 	size2parts (size2cabin)	-		Size 2 Crew Cabin
 	size2parts (size2tank)	-		Size 2 Liquid Fuel Fuselage
+	size2parts (size2under)	-		Size 2 Radial Liquid Fuel Mount
 	size2structural		-		Structural Fuselage S2	
 
 UTILITY
