@@ -1,5 +1,13 @@
 # Airplane Plus :: Change Log
 
+* 2016-1218 : Release 8.1 for KSP 1.2.2
+	- Reupload of 8.0
+	- Added MK1 Business Cockpit based on Cessna Citation (1.25 to 0.625 size)
+	- Added MK1 Non-Commercial Cockpit based on F-18 Hornet (No hatch yet, forgot)
+	- Added MK1 Viewer's Cockpit II based on OH-6 Little Bird
+	- Added Mk1 Junior Structural, a halved Mk1 Structural Fuselage, hollow
+	- Added Mk1 Passenger Door, a half-sized structural fuselage with a hatch (animated)
+	- Resized KT6A "Kitty" Turboprop engine, now a 0.625m engine
 * 2016-1211 : Release 7.0 for KSP 1.2.2
 	- Added RR K56 "Titan" Turboprop Engine based on C-130 Hercules
 Added K76 "Predator" Turboprop Engine based on MQ-9 Predator B/Reaper as well as its tractor variant (OV-10 Bronco)

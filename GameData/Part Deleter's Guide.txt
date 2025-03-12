@@ -8,18 +8,22 @@ AERO
 
 COMMAND
 	bellCockpit 		- 		Mk1 Viewer's Cockpit
+	citationcockpit		-		MK1 Business Cockpit
+	fightercockpit		-		MK1 Non-Commercial Cockpit
 	mk1drone		-		MK1 Drone Core
+	oh6cockpit		-		MK1 Viewer's Cockpit II
 	zeroCockpit 		- 		MK1/0 Caged Inline Cockpit
 
 PAYLOAD
 	Mk1Door			-		Mk1 Cargo Bay CRG-50-1
 	Mk1DroneDoor		-		Mk1 Nose Trunk CRG-NT
+	PassengerDoor		-		Mk1 Passenger Door
 
 
 STRUCTURE AND FUEL
 	Mk1JuniorFuselage 	- 		Mk1 Junior Fuselage
 	Mk2HParts (modeladapter)-		Mk2/H to 1.25m Adapter
-	Mk2HParts (modelbody)	-		Mk2/H Liquid Fuel Fuselage
+	Mk2HParts (modelbody)	-		Mk2h Liquid Fuel Fuselage
 	Mk2HParts (modelboom)	-		Mk2/H Flat Boom
 	Mk2HParts (modelmk2)	-		Mk2/H to Mk2 Adapter
 	ShortBoom 		- 		Short Tail Connector B
