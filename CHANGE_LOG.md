@@ -1,5 +1,17 @@
 # Airplane Plus :: Change Log
 
+* 2017-0727 : Release 17.0 for KSP 1.3.0
+	- Added Delta-Advanced Winglet based on MiG-29 Tailfin
+	- Added Basic Curve Winglet based on P-40 Warhawk Tailfin
+	- Added Structural Fuselage Offset for Mk1 Bulkhead, can be used to slant body in 5 degree increments.
+	- Adjusted all sounds from "defeaningly loud" to "just about stock volume"
+	- Improved engine sounds for all rotorwings
+	- Improved blade visuals of rotors to flare up when spinning with blur
+	- Fixed power loss during hover in rotors
+	- Fixed sound problem on the Gemini rotors
+	- Fixed reversed "open" and "close" labels on Size 2 cargo parts
+	- Fixed file not found exception due to bad error
+	- Fixed tail rotors not working as intended
 * 2017-0602 : Release 16.0 for KSP 1.3.0
 	- Revised the way all helicopter rotors work, now with hovering (not for use with tandem rotors)
 		- Revision will likely break the way it worked before, thrust reversals are removed, the functions are changed, etc.
