@@ -4,6 +4,10 @@ You refer to this.
 All the parts are under GameData/AirplanePlus/Parts
 
 AERO
+	anglewings (hanglel)		-		Angled Wing Connector A
+	anglewings (hangles)		-		Angled Wing Connector B
+	anglewings (vanglel)		-		Angled Wing Connector C
+	anglewings (vangles)		-		Angled Wing Connector D
 	bigwing				-		FAT-T3R Aeroplane Main Wing
 	elevonhalf			-		Elevon 0
 	fatwings (model0)		-		FAT-A Wing Connector
@@ -28,14 +32,16 @@ AERO
 	smallwings (wing4)		-		Wing Connector Type I
 	smallwings (wing6)		-		Wing Connector Type J
 	smallwings (wing6-2)		-		Wing Connector Type K
-	stubbytinynose (model)		-		Small Nose Cone Stubby
-	stubbytinynose (modelb)		-		Small Nose Cone B
+	stubbytinynose			-		Small Nose Cone Stubby
+
 COMMAND
 	144cockpit			-		Mk2/Object 1.44 Non-Commercial Cockpit
 	airbuscockpit			-		Size 2 Commercial Cockpit
 	b29cockpit			-		Size 2 Viewer's Cockpit II
 	bellcockpit 			- 		Mk1 Viewer's Cockpit
 	bombardiercockpit		-		Size 1.5 Cockpit
+	cessnacockpit (modelcockpit)	-		MK3S1 Cockpit
+	cessnacockpit (modelcabin)	-		MK3S1 Crew Cabin
 	citationcockpit			-		MK1 Business Cockpit
 	concordecockpit			-		Size 2 Droopnose Cockpit
 	falconcockpit			-		Mk2 Non-Commercial Cockpit
@@ -81,15 +87,18 @@ STRUCTURE AND FUEL
 	r22set (mk3s0booma)		-		Mk3S0 Tail Connector A
 	r22set (mk3s0boomb)		-		Mk3S0 Tail Connector B
 	r22set (mk3s0jr)		-		Mk3S0 Liquid Fuel Fuselage Junior
+	r22set (mk3s0nose)		-		Mk3S0 Nosecone
 	r22set (mk3s0-s0)		-		Mk3S0 to 0.625m Adapter
 	r22set (mk3s1)			-		Mk3S1 Liquid Fuel Fuselage
 	r22set (mk3s1booma)		-		Mk3S1 Tail Connector A
 	r22set (mk3s1boomb)		-		Mk3S1 Tail Connector B
+	r22set (mk3s1intake)		-		Mk3S1 Adjustable Ramp Intake
 	r22set (mk3s1jr)		-		Mk3S1 Liquid Fuel Fuselage Junior
 	r22set (mk3s1p5)		-		Mk3S1.5 Liquid Fuel Fuselage
 	r22set (mk3s1p5doorbase)	-		Mk3S1.5 Cargo Bay
 	r22set (mk3s1p5hull)		-		Mk3S1.5 Structural Fuselage
 	r22set (mk3s1p5jr)		-		Mk3S1.5 Liquid Fuel Fuselage Junior
+	r22set (mk3s1nose)		-		Mk3S1 Nosecone
 	r22set (mk3s1p5-mk3s1)		-		Mk3S1.5-Mk3S1 Liquid Fuel Fuselage
 	r22set (mk3s1p5-s1p5)		-		Mk3S1.5 to 1.875m Adapter
 	r22set (mk3s1-s1)		-		Mk3S1 to 1.25m Adapter
@@ -136,8 +145,8 @@ ENGINE
 		spad 		- 		8A "Spud" Engine
 
 	MODERN (Turboprops and Jets)
+		152prop		-		L K-235 "Cat" Turboprop Engine
 		609prop		-		KT6C "Kitty" Turboshaft Engine
-		CF34		-		J-34 "Chevron" High-Bypass Turbofan Engine
 		CFM56		-		J-56 "Lotus" High-Bypass Turbofan Engine
 		f5jet		-		J-85 "Tiger" Afterburning Turbofan
 		hercules	-		RR K56 "Titan" Turboprop Engine

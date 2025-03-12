@@ -1,5 +1,30 @@
 # Airplane Plus :: Change Log
 
+* 2018-1002: 24.0 (blackheart612) for KSP 1.4.5
+	+ Added MK3S1 Cockpit based on Cessna 152 and Best off Skyranger
+	+ Added L K-235 "Cat" Turboprop Engine based on 152 and 182 Skylane
+	+ Added Mk3S1 Crew Cabin
+	+ Added Mk3S1 Nosecone
+	+ Added Mk3S1 Adjustable Ramp Intake, a based off the stock one
+	+ Added Mk3S0 Nosecone
+	+ Added Angled Wing Connector A*
+	+ Added Angled Wing Connector B*
+	+ Added Angled Wing Connector C*
+	+ Added Angled Wing Connector D*
+		- angled 5 degrees
+	+ Added experimental Mk3SX variant for*
+	+ J-119 "Cheetah" Afterburning Turbofan (Raptor Jet Engine)
+	+ Added Pontoon and Pontoon-Mk3S options for*
+		- Mk3S1 Liquid Fuel Fuselage
+		- Mk3S0 Liquid Fuel Fuselage
+		- Mk3S1 Liquid Fuel Fuselage Junior
+		- Mk3S0 Liquid Fuel Fuselage Junior
+	+ Resized FAT-T3R Aeroplane Main Wing (C-130 wing)
+	+ Resized RR K56 "Titan" Turboprop Engine (C-130 engine)
+	+ Adjusted various tech tree nodes, allowing earlier flight*
+		- Includes rotors and wing parts
+	+ Fixed KS-FAT-29 Huge Landing Gear with wrong turning animation
+	+ Modified some landing gear values (some still bouncy, mostly not my fault)
 * 2018-0720 : Release 23.0 for KSP 1.4.4
 	- Added Size 1.5 Cockpit based on the CRJ series
 	- Added J-34 "Chevron" High-Bypass Turbofan Engine based on E-170's CF34 as well as CRJ-900
