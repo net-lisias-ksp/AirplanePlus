@@ -1,5 +1,17 @@
 # Airplane Plus :: Change Log
 
+* 2017-0102 : Release 9.0 for KSP 1.2.2
+	- Added MK1 Inline Non-Commercial Cockpit based on MiG-29M
+	- Added MK1 Caged Inline Cockpit based on P-40 Warhawk
+	- Added Mk2 Non-Commercial Cockpit based on F-16 Fighting Falcon (thanks to SkyKaptn's donations)
+	- Added Elevon 2B, a bigger straight elevon compared to the default one
+	- Added Wing Connector Type F-K, a smaller wing set, mostly halved the size of stock wings
+	- Added Navigation Illuminator, a supposed navigation light
+	- Fixed missing hatch for Mk1 Non-Commercial Cockpit
+	- Fixed misaligned ladder for Mk1/0 Caged Inline Cockpit
+	- Added alternative camera view for all existing cockpits, as well as new ones
+	- Improved Mk1 Viewer's Cockpit IVA textures, as well as Mk1/0 Caged Inline Cockpit
+	- Rebranded all parts to Kerbal Standard, all AP+ can now be found in one manufacturer tab
 * 2016-1218 : Release 8.1 for KSP 1.2.2
 	- Reupload of 8.0
 	- Added MK1 Business Cockpit based on Cessna Citation (1.25 to 0.625 size)

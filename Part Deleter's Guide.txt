@@ -1,0 +1,76 @@
+Welcome to the part info. If you want to delete specific folders or want info on the parts in GameData,
+You refer to this.
+
+All the parts are under GameData/AirplanePlus/Parts
+
+AERO
+	bigwing			-		FAT-T3R Aeroplane Main Wing
+	smallwings (elevon2b)	-		Elevon 2B
+	smallwings (halfwing)	-		Wing Connector Type F
+	smallwings (halfwinglw)	-		Wing Connector Type G
+	smallwings (halfwinglw2)-		Wing Connector Type H
+	smallwings (wing4)	-		Wing Connector Type I
+	smallwings (wing6)	-		Wing Connector Type J
+	smallwings (wing6-2)	-		Wing Connector Type K
+
+COMMAND
+	bellcockpit 		- 		Mk1 Viewer's Cockpit
+	citationcockpit		-		MK1 Business Cockpit
+	falconcockpit		-		Mk2 Non-Commercial Cockpit
+	fightercockpit		-		MK1 Non-Commercial Cockpit
+	fighterinlinecockpit	-		MK1 Inline Non-Commercial Cockpit
+	mk1drone		-		MK1 Drone Core
+	oh6cockpit		-		MK1 Viewer's Cockpit II
+	oldfightercockpit	-		MK1 Caged Inline Cockpit
+	zerocockpit 		- 		MK1/0 Caged Inline Cockpit
+	
+
+PAYLOAD
+	Mk1Door			-		Mk1 Cargo Bay CRG-50-1
+	Mk1DroneDoor		-		Mk1 Nose Trunk CRG-NT
+
+
+STRUCTURE AND FUEL
+	Mk1JuniorFuselage 	- 		Mk1 Junior Fuselage
+	Mk2HParts (modeladapter)-		Mk2/H to 1.25m Adapter
+	Mk2HParts (modelbody)	-		Mk2h Liquid Fuel Fuselage
+	Mk2HParts (modelboom)	-		Mk2/H Flat Boom
+	Mk2HParts (modelmk2)	-		Mk2/H to Mk2 Adapter
+	ShortBoom 		- 		Short Tail Connector B
+	ShortBoom2 		- 		Short Tail Connector A	
+
+UTILITY
+	Navlight		-		Navigation Illuminator
+	Skid 			- 		Anti-Roll Landing Skids
+
+
+ENGINE
+	EARLY (WWI Engines)
+		51 		- 		WMB VI "Vortex" Engine
+		chaika  	- 		K-25V "Cyclone" Radial Engine
+		fokker  	- 		9J "Baron" Rotary Engine
+		hawker  	-		RR "Count" K.XI Engine
+		spad 		- 		8A "Spud" Engine
+
+	MODERN (Turboprops)
+		hercules	-		RR K56 "Titan" Turboprop Engine
+		KP-12 		- 		KP-12 "Bear" Kontraprop Engine
+		predator	-		K76 "Predator" Turboprop Engine
+		tbmProp 	- 		KT6A "Kitty" Turboprop Engine
+
+	PRE-MODERN (WWII Engines)
+		109 		- 		KB 601 "Tornado" Engine
+		Corsair 	- 		K-2800 "Bumblebee" Radial Engine
+		K1710 		- 		K1710 "Whirlwind" Engine
+		Marlin 		- 		RR "Marlin" Engine
+		Spitfire 	- 		RR "Kraken" Engine
+		Yak 		- 		KM-105P "Silver Crow" Engine
+		Zero 		- 		K-14 "Divine Wind" Radial Engine
+
+	ROTORWING (Helicopters)
+		bellprop 	- 		RR K250 "Maverick" Turboshaft Engine
+		belltailprop 	- 		RR K250-S Control Rotor
+		blackhawkprop	-		K700 "Hawk" Turboshaft Engine
+		chinookprop	-		L K55 "Gemini" Turboshaft Engine
+		powerprop 	- 		K73 "Beluga" Turboshaft Engine
+		powertailprop 	- 		K73-S Control Rotor
