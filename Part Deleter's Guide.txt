@@ -48,6 +48,7 @@ COMMAND
 	fightercockpit			-		MK1 Non-Commercial Cockpit
 	fighterinlinecockpit		-		MK1 Inline Non-Commercial Cockpit
 	galaxycockpit			-		Mk3 Cargo Cockpit
+	herculescockpit			-		Size 2 Non-Commercial Cockpit
 	hueycockpit			-		MK3S1.5 Viewer's Cockpit
 	hipcockpit			-		Size 2 Viewer's Cockpit
 	mk1drone (model)		-		MK1 Drone Core
@@ -119,6 +120,9 @@ STRUCTURE AND FUEL
 	size2structural			-		Structural Fuselage S2	
 
 UTILITY
+	APU (models1)			-		Size 1 100-KE Auxiliary Power Engine
+	APU (models2)			-		Size 2 131-9K Auxiliary Power Engine
+	APU (models15)			-		Size 1.5 220-KE Auxiliary Power Engine
 	Navlight			-		Navigation Illuminator
 	Skid 				- 		Anti-Roll Landing Skids
 

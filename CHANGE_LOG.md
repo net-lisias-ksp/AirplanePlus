@@ -1,5 +1,14 @@
 # Airplane Plus :: Change Log
 
+* 2019-0131: 25.0 (blackheart612) for KSP 1.6.
+	+ Added Size 2 Non-Commercial Cockpit based on C-130 Hercules
+	+ Added Size 1 100-KE Auxiliary Power Engine based on Honeywell RE-100 and RE-220 APUs
+	+ Added Size 1.5 220-KE Auxiliary Power Engine based on Honeywell RE-220 APU
+	+ Added Size 2 131-9K Auxiliary Power Engine based on Honeywell 131-9A APU
+	+ Fixed issue where obsolete texture paths on landing gears cause NREs
+	+ Fixed issue where Kerbal Standard has a missing title
+	+ Fixed some landing gears having omitted aerodynamic changes when deployed/undeployed
+	+ Updated for 1.6.x
 * 2018-1002: 24.0 (blackheart612) for KSP 1.4.5
 	+ Added MK3S1 Cockpit based on Cessna 152 and Best off Skyranger
 	+ Added L K-235 "Cat" Turboprop Engine based on 152 and 182 Skylane
