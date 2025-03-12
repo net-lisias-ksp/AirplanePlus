@@ -1,5 +1,19 @@
 # Airplane Plus :: Change Log
 
+* 2017-0114 : Release 10.0 for KSP 1.2.2
+	- Added Size 2 Commercial Cockpit based on Airbus Cockpits*
+	- Added Size 2 Droopnose Cockpit based on Concorde (with animated nose droop)
+		- No clickable cameras on IVA yet
+	- Added Size 2 Crew Cabin, fits 16 kerbals, an Airline Cabin
+	- Added Size 2 Liquid Fuel Fuselage, 2.5m sized full of Liquid Fuel alone
+	- Added Structural Fuselage S2, a 2.5m kind of hollow hull, fitting for Airline hulls
+	- Added Size 2 Passenger Door with mesh switch (Air Ramp and not). Goes with structural Fuselage
+	- Added Mk1 Passenger Door mesh switch ramp option (aka, airstair/airramp)**
+		- A reminder that due to big kerbal colliders, they won't be able to EVA with only Passenger Door. Extend with a Junior Structural Fuselage to avoid blockage
+		- AirplanePlus hatches are box, not capsules. It won't fit on Mk1 Passenger Door for now due to a bigger collider. Even with Junior or Full Structural Fuselage
+	- Added Small Nose Cone Stubby, a cute stubby nosecone
+	- Added Kerbal Standard Agency as I forgot last release. Can now really be found on manufacturers tab
+	- Fixed Mk2 Non-Commercial Cockpit (F-16) not showing up
 * 2017-0102 : Release 9.0 for KSP 1.2.2
 	- Added MK1 Inline Non-Commercial Cockpit based on MiG-29M
 	- Added MK1 Caged Inline Cockpit based on P-40 Warhawk
