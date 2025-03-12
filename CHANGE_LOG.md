@@ -1,5 +1,7 @@
 # Airplane Plus :: Change Log
 
+* 2016-0707 : Release 3.1 for KSP 1.1.3
+	- Fixed plenty of thrustTransforms to enable thrust reversal.
 * 2016-0622 : Release 3.0 for KSP 1.1.3
 	- Added two more engines, K-2800 "Bumblebee" Radial Engine and K-14 "Divine Wind" Radial Engine;
 	- Added second type of short tail boom;
