@@ -1,5 +1,7 @@
 # Airplane Plus :: Change Log
 
+* 2020-0124: 26.5 (blackheart612) for KSP 1.8.1
+	+ Fixed blank textures
 * 2019-1221: 26.4 (blackheart612) for KSP 1.8.1
 	+ Fixed Squad's new path for cone textures wrongly referenced in the config
 	+ Fixed J-34 "Chevron" High-Bypass Turbofan Engine having Jettison Module when not needed
