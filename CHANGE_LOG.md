@@ -1,5 +1,14 @@
 # Airplane Plus :: Change Log
 
+* 2017-1107 : Release 19.0 for KSP 1.3.1
+	- Added Size 2 Viewer's Cockpit II based on B-29 Superfortress
+	- Added MK1 Supersonic Cockpit based on Bell X-1
+	- Added K-3350 "Tempest" Radial Engine based on the Duplex-Cyclone of B-29
+	- Added Tail Connector Size 2A and 2B, upsized Tail Connectors which connect to Size 2
+	- Added Short Tail Connector Size 2A and 2B, also connecting textures with Size 2
+	- Increased deployment speed of S.P.O.I.L.E.R to closely match real deployment speed
+	- Fixed Mk2/Object 1.44 Non-Commercial Cockpit having no hatch
+	- Fixed Mk2/Object 1.44 Non-Commercial Cockpit reorienting on revert to launch
 * 2017-1003 : Release 18.0 for KSP 1.3.1
 	- Added Mk2/Object 1.44 Non-Commercial Cockpit based on MiG 1.44
 	- Added KS-130 Low Landing Gear based on C-130 Front Landing Gear

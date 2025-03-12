@@ -4,72 +4,93 @@ You refer to this.
 All the parts are under GameData/AirplanePlus/Parts
 
 AERO
-	bigwing			-		FAT-T3R Aeroplane Main Wing
-	elevonhalf		-		Elevon 0
-	fatwings (model0)	-		FAT-A Wing Connector
-	fatwings (model1)	-		FAT-B Wing Connector
-	fatwings (model2)	-		FAT-C Wing Connector
-	fatwings (model3)	-		FAT-D Wing Connector
-	fatwings (model4)	-		FAT-E Wing Connector
-	fatwings (model5)	-		FAT-F Wing Connector
-	fatwings (model6)	-		FAT-G Wing Connector
-	flaps(modeldoublefowler)-		Trailing Edge Two-slot Flap
-	flaps (modelfowler)	-		Trailing Edge Slotted Flap		
-	flaps (modelkrueger)	-		Leading Edge Krueger Flap
-	flaps (modelspoiler)	-		S.P.O.I.L.E.R
-	flaps (modelstraight)	-		Leading Edge Slat Straight
-	intake			-		Mk1 Intake
-	nosecone		-		Nosecone Mk1
-	smallwings (elevon2b)	-		Elevon 2B
-	smallwings (halfwing)	-		Wing Connector Type F
-	smallwings (halfwinglw)	-		Wing Connector Type G
-	smallwings (halfwinglw2)-		Wing Connector Type H
-	smallwings (wing4)	-		Wing Connector Type I
-	smallwings (wing6)	-		Wing Connector Type J
-	smallwings (wing6-2)	-		Wing Connector Type K
-	stubbytinynose		-		Small Nose Cone Stubby
+	bigwing				-		FAT-T3R Aeroplane Main Wing
+	elevonhalf			-		Elevon 0
+	fatwings (model0)		-		FAT-A Wing Connector
+	fatwings (model1)		-		FAT-B Wing Connector
+	fatwings (model2)		-		FAT-C Wing Connector
+	fatwings (model3)		-		FAT-D Wing Connector
+	fatwings (model4)		-		FAT-E Wing Connector
+	fatwings (model5)		-		FAT-F Wing Connector
+	fatwings (model6)		-		FAT-G Wing Connector
+	flaps(modeldoublefowler)	-		Trailing Edge Two-slot Flap
+	flaps (modelfowler)		-		Trailing Edge Slotted Flap		
+	flaps (modelkrueger)		-		Leading Edge Krueger Flap
+	flaps (modelspoiler)		-		S.P.O.I.L.E.R
+	flaps (modelstraight)		-		Leading Edge Slat Straight
+	intake				-		Mk1 Intake
+	nosecone			-		Nosecone Mk1
+	roundfin			-		Round-Deluxe Winglet
+	smallwings (elevon2b)		-		Elevon 2B
+	smallwings (halfwing)		-		Wing Connector Type F
+	smallwings (halfwinglw)		-		Wing Connector Type G
+	smallwings (halfwinglw2)	-		Wing Connector Type H
+	smallwings (wing4)		-		Wing Connector Type I
+	smallwings (wing6)		-		Wing Connector Type J
+	smallwings (wing6-2)		-		Wing Connector Type K
+	stubbytinynose			-		Small Nose Cone Stubby
 
 COMMAND
-	airbuscockpit		-		Size 2 Commercial Cockpit
-	bellcockpit 		- 		Mk1 Viewer's Cockpit
-	citationcockpit		-		MK1 Business Cockpit
-	concordecockpit		-		Size 2 Droopnose Cockpit
-	falconcockpit		-		Mk2 Non-Commercial Cockpit
-	fightercockpit		-		MK1 Non-Commercial Cockpit
-	fighterinlinecockpit	-		MK1 Inline Non-Commercial Cockpit
-	galaxycockpit		-		Mk3 Cargo Cockpit
-	hipcockpit		-		Size 2 Viewer's Cockpit
-	mk1drone		-		MK1 Drone Core
-	oh6cockpit		-		MK1 Viewer's Cockpit II
-	oldfightercockpit	-		MK1 Caged Inline Cockpit
-	zerocockpit 		- 		MK1/0 Caged Inline Cockpit
+	144cockpit			-		Mk2/Object 1.44 Non-Commercial Cockpit
+	airbuscockpit			-		Size 2 Commercial Cockpit
+	b29cockpit			-		Size 2 Viewer's Cockpit II
+	bellcockpit 			- 		Mk1 Viewer's Cockpit
+	citationcockpit			-		MK1 Business Cockpit
+	concordecockpit			-		Size 2 Droopnose Cockpit
+	falconcockpit			-		Mk2 Non-Commercial Cockpit
+	fightercockpit			-		MK1 Non-Commercial Cockpit
+	fighterinlinecockpit		-		MK1 Inline Non-Commercial Cockpit
+	galaxycockpit			-		Mk3 Cargo Cockpit
+	hipcockpit			-		Size 2 Viewer's Cockpit
+	mk1drone (model)		-		MK1 Drone Core
+	mk1drone (modelsas)		-		Mk1 Inline Stabilizer
+	oh6cockpit			-		MK1 Viewer's Cockpit II
+	oldfightercockpit		-		MK1 Caged Inline Cockpit
+	x1cockpit			-		MK1 Supersonic Cockpit
+	zerocockpit 			- 		MK1/0 Caged Inline Cockpit
 	
 
 PAYLOAD
-	AirRamp			-		Size 2 Passenger Door
-	Mk1Door			-		Mk1 Cargo Bay CRG-50-1
-	Mk1DroneDoor		-		Mk1 Nose Trunk CRG-NT
-	PassengerDoor		-		Mk1 Passenger Door
+	AirRamp				-		Size 2 Passenger Door
+	Mk1Door				-		Mk1 Cargo Bay CRG-50-1
+	Mk1DroneDoor			-		Mk1 Nose Trunk CRG-NT
+	PassengerDoor			-		Mk1 Passenger Door
 
 
 STRUCTURE AND FUEL
-	Mk1JuniorFuselage 	- 		Mk1 Junior Fuselage
-	Mk1JuniorStructural	-		Structural Fuselage Junior
-	Mk2HParts (modeladapter)-		Mk2/H to 1.25m Adapter
-	Mk2HParts (modelbody)	-		Mk2h Liquid Fuel Fuselage
-	Mk2HParts (modelboom)	-		Mk2/H Flat Boom
-	Mk2HParts (modelmk2)	-		Mk2/H to Mk2 Adapter
-	ShortBoom 		- 		Short Tail Connector B
-	ShortBoom2 		- 		Short Tail Connector A
-	size2parts (size2cabin)	-		Size 2 Crew Cabin
-	size2parts (size2tank)	-		Size 2 Liquid Fuel Fuselage
-	size2parts (size2under)	-		Size 2 Radial Liquid Fuel Mount
-	size2structural		-		Structural Fuselage S2	
+	mk0radial (modelboom)		-		Mk0 Tail Connector
+	mk0radial (modelhalfmini)	-		Mk0 Junior Liquid Fuel Fuselage
+	mk0radial (modelshortboom)	-		Mk0 Tail Connector Short
+	Mk1JuniorFuselage 		- 		Mk1 Junior Fuselage
+	Mk1JuniorStructural		-		Structural Fuselage Junior
+	Mk2HParts (modeladapter)	-		Mk2/H to 1.25m Adapter
+	Mk2HParts (modelbody)		-		Mk2h Liquid Fuel Fuselage
+	Mk2HParts (modelboom)		-		Mk2/H Flat Boom
+	Mk2HParts (modelmk2)		-		Mk2/H to Mk2 Adapter
+	ShortBoom 			- 		Short Tail Connector B
+	ShortBoom2 			- 		Short Tail Connector A
+	size2boom (modela)		-		Tail Connector Size 2A
+	size2boom (modelashort)		-		Short Tail Connector Size 2A
+	size2boom (modelb)		-		Tail Connector Size 2B
+	size2boom (modelbshort)		-		Short Tail Connector Size 2B
+	size2cargo (modelhull)		-		Structural Hull S2
+	size2cargo (modelramp)		-		Size 2 Cargo Ramp
+	size2cargo (modelshort)		-		Size 2 Cargo Bay CRG-15
+	size2parts (size2cabin)		-		Size 2 Crew Cabin
+	size2parts (size2tank)		-		Size 2 Liquid Fuel Fuselage
+	size2parts (size2under)		-		Size 2 Radial Liquid Fuel Mount
+	size2structural			-		Structural Fuselage S2	
 
 UTILITY
-	Navlight		-		Navigation Illuminator
-	Skid 			- 		Anti-Roll Landing Skids
+	Navlight			-		Navigation Illuminator
+	Skid 				- 		Anti-Roll Landing Skids
 
+WHEEL
+	biplanegear			-		KS-H1 Fixed Landing Gear
+	blackhawkgear			- 		KS-V1 Fixed Landing Gear
+	herculesgear (model)		-		KS-130-S2 Low Landing Gear
+	herculesgear (modelfront)	-		KS-130 Low Landing Gear
+	miggear				-		KS-29 Tall Landing Gear
 
 ENGINE
 	EARLY (WWI Engines)
@@ -91,6 +112,7 @@ ENGINE
 	PRE-MODERN (WWII Engines)
 		109 		- 		KB 601 "Tornado" Engine
 		Corsair 	- 		K-2800 "Bumblebee" Radial Engine
+		DuplexCyclone	-		K-3350 "Tempest" Radial Engine
 		K1710 		- 		K1710 "Whirlwind" Engine
 		Marlin 		- 		RR "Marlin" Engine
 		Spitfire 	- 		RR "Kraken" Engine
