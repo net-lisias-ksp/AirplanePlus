@@ -1,5 +1,11 @@
 # Airplane Plus :: Change Log
 
+* 2019-1212: 26.3 (blackheart612) for KSP 1.8.0
+	+ DDS conversion of some of the files to DXT5 (klgraham1013)
+	+ Fixes on modulecargobay and bulkheadprofiles for payload parts*(Jognt)
+		- Mk1 Passenger Door
+		- Mk1 Nose Trunk CRG-NT
+		- Mk1 Junior Cargo Bay CRG-50-0
 * 2019-1028: 26.2 (blackheart612) for KSP 1.8.0
 	+ Fixed issue where Leading Edge Slat Straight model is off-center
 	+ Fixed texture not found for various parts*
