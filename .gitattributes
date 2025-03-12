@@ -22,6 +22,7 @@
 *.md       text
 *.txt      text
 *.resx     text
+*.craft    text
 
 # Image and other binaries
 *.png     binary
