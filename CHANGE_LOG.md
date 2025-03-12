@@ -1,5 +1,19 @@
 # Airplane Plus :: Change Log
 
+* 2016-1120 : Release 6.0 for KSP 1.2.1
+	- Added KP-12 "Bear" Kontraprop Engine based on Tu-95
+	- Added KT6A "Kitty" Turboprop Engine based on TBM 900, contains a pusher variant*
+		- still needs the thrust to be reversed
+	- Added RR K250 "Maverick" Turboshaft Engine** based on Bell 206, as well as its tail rotor, RR K250-S Control Rotor
+		- meshswitch capable to remove engines
+	- Added K73 "Beluga" Turboshaft Engine based on Sikorsky S-64, as well as its tail rotor, K73-S Control Rotor
+	- Added Mk1 Viewer's Cockpit based on Bell 206
+	- Added MK1/0 Caged Inline Cockpit based on A6M "Zero"
+	- Added Anti-Roll Landing Skids
+	- Included Part Deleter's Guide in the zip for those who want to delete specific parts
+	- Fixed bad sound loops and bad sounds over all
+	- Fixed config complaints about errors and issues (ignitionthreshold, texture on meshswitching)
+	- All engines will now have a small startup time before shooting off the runway
 * 2016-1014 : Release 5.0 for KSP 1.2.1
 	- Added WMB VI "Vortex" Engine based on Heinkel He 51
 	- Added RR "Count" K.XI Engine based on Hawker Fury/Hawker Nimrod/Hawker Hart
