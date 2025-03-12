@@ -1,5 +1,16 @@
 # Airplane Plus :: Change Log
 
+* 2019-1028: 26.2 (blackheart612) for KSP 1.8.0
+	+ Fixed issue where Leading Edge Slat Straight model is off-center
+	+ Fixed texture not found for various parts*
+		- K73 "Beluga" Turboshaft Engine
+		- Mk1 Cargo Bay CRG-50-1
+		- Size 2 Commercial Cockpit
+		- Size 2 Viewer's Cockpit II
+		- MK1 Inline Non-Commercial Cockpit
+		- MK1 Viewer's Cockpit II
+		- MK1 Caged Inline Cockpit
+		- MK1 Supersonic Cockpit
 * 2019-0327: 26.1 (blackheart612) for KSP 1.6.1
 	+ Fixed missing bulkhead profiles on configs causing part catalog to break when filtering by bulkheads (linuxgurugamer)
 	+ Corrected J-119 "Cheetah" Afterburning Turbofan bulkhead profile
