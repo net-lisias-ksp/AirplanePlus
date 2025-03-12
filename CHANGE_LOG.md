@@ -1,5 +1,9 @@
 # Airplane Plus :: Change Log
 
+* 2019-0327: 26.1 (blackheart612) for KSP 1.6.1
+	+ Fixed missing bulkhead profiles on configs causing part catalog to break when filtering by bulkheads (linuxgurugamer)
+	+ Corrected J-119 "Cheetah" Afterburning Turbofan bulkhead profile
+	+ Added tags on a few engines
 * 2019-0321: 26.0 (blackheart612) for KSP 1.6.1
 	+ Completely Reworked K1710 "Whirlwind" Engine - now with a total of 6 variants*
 		- Last 3 variants will include Mk3 version of the first 3
