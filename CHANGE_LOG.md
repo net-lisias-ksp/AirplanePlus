@@ -1,5 +1,27 @@
 # Airplane Plus :: Change Log
 
+* 2020-0124: 26.5 (blackheart612) for KSP 1.8.1
+	+ Fixed blank textures
+* 2019-1221: 26.4 (blackheart612) for KSP 1.8.1
+	+ Fixed Squad's new path for cone textures wrongly referenced in the config
+	+ Fixed J-34 "Chevron" High-Bypass Turbofan Engine having Jettison Module when not needed
+* 2019-1212: 26.3 (blackheart612) for KSP 1.8.0
+	+ DDS conversion of some of the files to DXT5 (klgraham1013)
+	+ Fixes on modulecargobay and bulkheadprofiles for payload parts*(Jognt)
+		- Mk1 Passenger Door
+		- Mk1 Nose Trunk CRG-NT
+		- Mk1 Junior Cargo Bay CRG-50-0
+* 2019-1028: 26.2 (blackheart612) for KSP 1.8.0
+	+ Fixed issue where Leading Edge Slat Straight model is off-center
+	+ Fixed texture not found for various parts*
+		- K73 "Beluga" Turboshaft Engine
+		- Mk1 Cargo Bay CRG-50-1
+		- Size 2 Commercial Cockpit
+		- Size 2 Viewer's Cockpit II
+		- MK1 Inline Non-Commercial Cockpit
+		- MK1 Viewer's Cockpit II
+		- MK1 Caged Inline Cockpit
+		- MK1 Supersonic Cockpit
 * 2019-0327: 26.1 (blackheart612) for KSP 1.6.1
 	+ Fixed missing bulkhead profiles on configs causing part catalog to break when filtering by bulkheads (linuxgurugamer)
 	+ Corrected J-119 "Cheetah" Afterburning Turbofan bulkhead profile

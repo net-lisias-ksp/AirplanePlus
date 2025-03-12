@@ -20,6 +20,8 @@ You are authorized to fork this repository under GitHub [ToS](https://help.githu
 	* [1.3](https://gitlab.com/net-lisias-ksph/AirplanePlus/tree/KSP/1.3)
 	* [1.4](https://gitlab.com/net-lisias-ksph/AirplanePlus/tree/KSP/1.4)
 	* [1.6](https://gitlab.com/net-lisias-ksph/AirplanePlus/tree/KSP/1.6)
+	* 1.7 had no releases for it.
+	* [1.8](https://gitlab.com/net-lisias-ksph/AirplanePlus/tree/KSP/1.8)
 * [Change Log](./CHANGE_LOG.md)
 * [Binaries](https://gitlab.com/net-lisias-ksph/AirplanePlus/tree/Archive)
 * [Front Page](https://gitlab.com/net-lisias-ksph/AirplanePlus)
