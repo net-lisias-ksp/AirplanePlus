@@ -1,5 +1,8 @@
 # Airplane Plus :: Change Log
 
+* 2018-0318 : Release 21.1 for KSP 1.4.1
+	- Ported to 1.4.x
+	- fixed version changes issues
 * 2018-0207 : Release 21.0 for KSP 1.3.1
 	- Rebalanced all of the prop engines to reduce or remove flame out at high speeds
 	- Power of prop engines have been increased/decreased accordingly
