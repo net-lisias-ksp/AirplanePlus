@@ -13,9 +13,20 @@ But explicitly forbids you to:
 
 You are authorized to fork this repository under GitHub [ToS](https://help.github.com/articles/github-terms-of-service/), but are not authorized to commit on it (as it would create a derivative), unless a Court of Law decides otherwise.
 
+## Content
+* Sources
+	* [1.1](https://github.com/net-lisias-kspu/AirplanePlus/tree/KSP/1.1)
+	* [1.2](https://github.com/net-lisias-kspu/AirplanePlus/tree/KSP/1.2)
+	* [1.3](https://github.com/net-lisias-kspu/AirplanePlus/tree/KSP/1.3)
+	* [1.4](https://github.com/net-lisias-kspu/AirplanePlus/tree/KSP/1.4)
+* [Change Log](./CHANGE_LOG.md)
+* [Binaries](https://github.com/net-lisias-kspu/AirplanePlus/tree/Archive)
+
+
 ## References
 
-* [Spacedock](https://spacedock.info/mod/716/Airplane%20Plus)
-* [CurseForge](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-144-airplane-plus-r230-full-1875m-parts-crj-series-new-jet-engine-fixes-jul-20-2018/)
 * [KSP Forum](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus)
+* Official Distribution Sites
+	* [Spacedock](https://spacedock.info/mod/716/Airplane%20Plus)
+	* [CurseForge](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-144-airplane-plus-r230-full-1875m-parts-crj-series-new-jet-engine-fixes-jul-20-2018/)
 
