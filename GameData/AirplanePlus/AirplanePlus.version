@@ -1,0 +1,24 @@
+{
+  "NAME": "Airplane Plus",
+  "URL": "https://forum.kerbalspaceprogram.com/index.php?/topic/140262-131-airplane-plus-r200-supersonic-6-retractable-landing-gears-jan-23-2018/",
+  "VERSION": {
+    "MAJOR": 21,
+    "MINOR": 0,
+    "PATCH": 0
+  },
+     "KSP_VERSION":{
+         "MAJOR":1,
+         "MINOR":3,
+         "PATCH":1
+     },
+     "KSP_VERSION_MIN":{
+         "MAJOR":1,
+         "MINOR":2,
+         "PATCH":9
+     },
+     "KSP_VERSION_MAX":{
+         "MAJOR":1,
+         "MINOR":3,
+         "PATCH":1
+     }
+}

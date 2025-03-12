@@ -1,5 +1,19 @@
 # Airplane Plus :: Change Log
 
+* 2018-0207 : Release 21.0 for KSP 1.3.1
+	- Rebalanced all of the prop engines to reduce or remove flame out at high speeds
+	- Power of prop engines have been increased/decreased accordingly
+	- Reduced bouncing for diagonal and small gears, deploying and fixed alike
+	- Balanced the amount of weight Release 20 landing gears can handle
+	- Redesigned Mk1 Non-Commercial Cockpit
+	- Minor Redesign for Mk1/Mk2 Caged, Viewer's, and Non-Commercial Cockpit IVAs
+	- Added Seat_Eject IVA prop based on various ejection seats
+	- Added Seat_Fighter IVA prop based on P-51 mustang cockpit seat
+	- Added Seat_Leather IVA prop based on various helicopter seats
+	- Added Seat_Control IVA prop based on a firespitter prop for pre-modern planes but stockalike features yaw, pitch and yaw control animation
+	- Added Seat_Pedal IVA prop based on the stock pedal, features yaw control animation
+	- Added controlstick IVA prop based on stock control stick features pitch and roll animation
+	- Added helistick IVA prop based on stock control stick and helicopter sticks, features pitch and roll animation
 * 2018-0123 : Release 20.0 for KSP 1.3.1
 	- Added KS-320 Assymetric Landing Gear based on the Airbus A320 Rear Landing Gear
 	- Added KS-FAT-29 Huge Landing Gear based on the B-29 Superfortress Rear Landing Gear
