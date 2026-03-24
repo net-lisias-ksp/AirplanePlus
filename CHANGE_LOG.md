@@ -1,5 +1,10 @@
 # Airplane Plus :: Change Log
 
+* 2026-0324: 26.6.2.5 (LisiasT) for KSP => 1.4.1
+	+ Updates `KSPe.Light` to 2.5.5.2, fixing a lame mistake that prevented it from working on KSP < 1.8.0 🤦
+	+ Incepts Localization.
+		- Currently only en-us, but more to come.
+	+ Moves patches that changes Stock parts into a new, optional package called `AirplanePlusClassic`
 * 2025-0303: 26.6.2.4 (LisiasT) for KSP => 1.4.1 EXPERIMENTAL
 	+ Small adjustments on `ModuleCargoBay` for
 		- `passengerdoor`

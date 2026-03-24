@@ -13,8 +13,12 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
 	+ Delete `<KSP_ROOT>/GameData/AirplanePlus`
+	+ Delete `<KSP_ROOT>/GameData/AirplanePlusClassic`
+	+ Delete `<KSP_ROOT>/GameData/AirplanePlusExperimental`
 * Extract the package's `GameData/` folder into your KSP's as follows:
-	+ `<PACKAGE>/GameData/AirplanePlus ` --> `<KSP_ROOT>/AirplanePlus `
+	+ `<PACKAGE>/GameData/AirplanePlus` --> `<KSP_ROOT>/AirplanePlus`
+	+ `<PACKAGE>/GameData/AirplanePlusClassic` --> `<KSP_ROOT>/AirplanePlusClassic/.`
+	+ `<PACKAGE>/GameData/AirplanePlusExperimental` --> `<KSP_ROOT>/AirplanePlusExperimental`
 * Install the remaining dependencies
         + See below on **Dependencies**
 
@@ -45,6 +49,10 @@ The following file layout must be present after installation:
 			* NOTICE
 			* README.md
 			* AirplanePlus.version
+		+ [AirplanePlusClassic]
+			...
+		+ [AirplanePlusClassicExcperimental]
+			...
 		+ [Firespitter]
 			... 
 		* ModuleManager.dll
