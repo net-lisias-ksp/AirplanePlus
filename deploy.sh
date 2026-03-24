@@ -99,7 +99,8 @@ copylmj() {
 
 check
 copylmj "./GameData/$TARGETDIR"
-copylmj "./GameData/${TARGETDIR}Experimental"
+VERSIONFILE=${PACKAGE}Classic.version copylmj "./GameData/${TARGETDIR}Classic"
+VERSIONFILE=${PACKAGE}Experimental.version copylmj "./GameData/${TARGETDIR}Experimental"
 cp INSTALL.md ./GameData
 
 for dll in $GD_DLLS ; do

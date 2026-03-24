@@ -1,5 +1,6 @@
 .vs
 Archive
+GameData/INSTALL.md
 GameData/**/*.dll
 GameData/**/LICENSE*
 GameData/**/NOTICE

@@ -9,5 +9,7 @@ pwd=$(pwd)
 cd $pwd
 ./pack-experimental.sh
 cd $pwd
+./pack-classic.sh
+cd $pwd
 ./pack-curse.sh
 cd $pwd
