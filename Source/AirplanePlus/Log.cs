@@ -1,7 +1,6 @@
 ﻿/*
 	This file is part of Airplane++ /L
-		© 2022-2024 by:
-			LisiasT : http://lisias.net <support@lisias.net>
+		© 2022-2026 LisiasT : http://lisias.net <support@lisias.net>
 
 	THIS FILE is licensed to you under:
 
