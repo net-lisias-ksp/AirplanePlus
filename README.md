@@ -30,6 +30,21 @@ This repository is maintained (under authorisation) by Lisias.
 
 A fork of AirplanePlus with fixes and updates to modern KSP.
 
+It currently consists of the following packages:
+
+* Main distribution, `AirplanePlus-x.y.z.w` (where *x*, *y*, *z* and *w* are version numbers)
+	+ The thing you want to install for sure! 😀
+* Classic, `AirplanePlusClassic-x.y.z.w` (ditto)
+	+ As A+ evolves, some things that you have today may break on older KSPs, or change some behaviour that you would preferred not to change. This **optional** package will restore these features for you.
+		+ (hey, I still play 1.4.3!!) 😅
+* Experimental, `AirplanePlusExperimental-x.y.z.w` (ditto)
+	+ Any new change that may cause any kind of disturbance on the *status quo* will be tried here first.
+	+ By definition, this thing is **meant** to break things, besides my best efforts to prevent serious damage.
+		- Do not use this on any longterm savegames unless you know how to fix things deeply in KSP's guts
+			- Like editing `SFS` files...
+		- Create a disposable KSP instalment for playing it, just in case.
+	+ If you like to live in the bleeding edge, oh boy, you got it. 😀
+
 
 ## Installation
 
@@ -43,6 +58,7 @@ Please note the copyrights and trademarks in [NOTICE](./NOTICE).
 ### Assets by blackheart612
 
 Unless explicitly stated otherwise, all assets under the following subdirectories on `GameData/AirplanePlus`:
+
 * [Agencies](./GameData/AirplanePlus/Agencies)
 * [Compatibility](./GameData/AirplanePlus/Compatibility)
 * [FX](./GameData/AirplanePlus/FX)
@@ -94,7 +110,7 @@ And you has the choice to choose the license that best suits your needs.
 
 ## References
 
-* [blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) ROOT
+* [blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) Original Author (ROOT)
 	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-144-airplane-plus-r230-full-1875m-parts-crj-series-new-jet-engine-fixes-jul-20-2018/)
 	+ Imgur
 		- [AirplanePlus](https://imgur.com/a/6kDLM)
