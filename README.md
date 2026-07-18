@@ -14,17 +14,15 @@ This repository is maintained (under authorisation) by Lisias.
 * [Source](https://github.com/net-lisias-ksp/AirplanePlus)
 	+ [Issue Tracker](https://github.com/net-lisias-ksp/AirplanePlus/issues)
 * Documentation
-	+ Forum (WiP)
+	+ [Forum](https://forum.kerbalspaceprogram.com/topic/231344-*/)
 	+ [Project's README](https://github.com/net-lisias-ksp/AirplanePlus/blob/master/README.md)
 	+ [Install Instructions](https://github.com/net-lisias-ksp/AirplanePlus/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 * Official Distribution Sites:
-	+ Homepage (WiP)
-	+ CurseForge (WiP)
-	+ SpaceDock (WiP)
-	+ [Source and Binaries](https://github.com/net-lisias-ksp/AirplanePlus) on GitHub.
-	+ [Latest Release](https://github.com/net-lisias-ksp/AirplanePlus/releases)
-		- Binaries (WiP)
+	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus-l/)
+	+ [SpaceDock](https://spacedock.info/mod/4420/Airplane%20Plus%20/L) (and CKAN)
+	+ [Source](https://github.com/net-lisias-ksp/AirplanePlus) on GitHub.
+		- [Latest Release](https://github.com/net-lisias-ksp/AirplanePlus/releases)
 
 ## Description
 
