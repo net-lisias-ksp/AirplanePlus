@@ -1,5 +1,28 @@
 # Airplane Plus :: Change Log
 
+* 2026-0726: 26.6.2.6 (LisiasT) for KSP >= 1.4.1 EXPERIMENTAL
+	+ incremental release over 26.6.2.5.
+	+ Merges Pull Request [#26](https://github.com/net-lisias-ksp/AirplanePlus/pull/26) "3d rims". Thanks, [Spartwo](https://github.com/Spartwo)!
+		- 3D Rims & Mk2 aligned node doors for
+			- Galaxy Cockpit
+			- Huey Cockpit
+			- Airbus Cockpit
+			- Bombardier Cockpit
+			- Fighter Cockpit
+			- Enlengthened Fighter Cockpit
+			- Inline Fighter Cockpit
+			- MI-8 Cockpit
+	+ Variants of 
+		- Huey Cockpit Roundified 
+		- Galaxy Cockpit Roundified 
+		- Mk3 Ramp Roundified 
+		- Bombardier Cockpit Optional Nose
+	+ Partial waterfall support
+		- CF6
+		- cfm56
+		- F5 Jet
+	+ Engine Rebalance Patch
+	+ Partial VAB organiser support
 * 2026-0324: 26.6.2.5 (LisiasT) for KSP => 1.4.1
 	+ Updates `KSPe.Light` to 2.5.5.2, fixing a lame mistake that prevented it from working on KSP < 1.8.0 🤦
 	+ Incepts Localization.
