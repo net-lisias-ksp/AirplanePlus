@@ -14,34 +14,21 @@ This repository is maintained (under authorisation) by Lisias.
 * [Source](https://github.com/net-lisias-ksp/AirplanePlus)
 	+ [Issue Tracker](https://github.com/net-lisias-ksp/AirplanePlus/issues)
 * Documentation
-	+ [Forum](https://forum.kerbalspaceprogram.com/topic/231344-*/)
+	+ Forum (WiP)
 	+ [Project's README](https://github.com/net-lisias-ksp/AirplanePlus/blob/master/README.md)
 	+ [Install Instructions](https://github.com/net-lisias-ksp/AirplanePlus/blob/master/INSTALL.md)
 	+ [Change Log](./CHANGE_LOG.md)
 * Official Distribution Sites:
-	+ [CurseForge](https://www.curseforge.com/kerbal/ksp-mods/airplane-plus-l/)
-	+ [SpaceDock](https://spacedock.info/mod/4420/Airplane%20Plus%20/L) (and CKAN)
-	+ [Source](https://github.com/net-lisias-ksp/AirplanePlus) on GitHub.
-		- [Latest Release](https://github.com/net-lisias-ksp/AirplanePlus/releases)
+	+ Homepage (WiP)
+	+ CurseForge (WiP)
+	+ SpaceDock (WiP)
+	+ [Source and Binaries](https://github.com/net-lisias-ksp/AirplanePlus) on GitHub.
+	+ [Latest Release](https://github.com/net-lisias-ksp/AirplanePlus/releases)
+		- Binaries (WiP)
 
 ## Description
 
 A fork of AirplanePlus with fixes and updates to modern KSP.
-
-It currently consists of the following packages:
-
-* Main distribution, `AirplanePlus-x.y.z.w` (where *x*, *y*, *z* and *w* are version numbers)
-	+ The thing you want to install for sure! 😀
-* Classic, `AirplanePlusClassic-x.y.z.w` (ditto)
-	+ As A+ evolves, some things that you have today may break on older KSPs, or change some behaviour that you would preferred not to change. This **optional** package will restore these features for you.
-		+ (hey, I still play 1.4.3!!) 😅
-* Experimental, `AirplanePlusExperimental-x.y.z.w` (ditto)
-	+ Any new change that may cause any kind of disturbance on the *status quo* will be tried here first.
-	+ By definition, this thing is **meant** to break things, besides my best efforts to prevent serious damage.
-		- Do not use this on any longterm savegames unless you know how to fix things deeply in KSP's guts
-			- Like editing `SFS` files...
-		- Create a disposable KSP instalment for playing it, just in case.
-	+ If you like to live in the bleeding edge, oh boy, you got it. 😀
 
 
 ## Installation
@@ -53,10 +40,11 @@ Detailed installation instructions are now on its own file (see the [In a Hurry]
 
 Please note the copyrights and trademarks in [NOTICE](./NOTICE). 
 
-### Assets by blackheart612
+### Assets
+
+#### by blackheart612
 
 Unless explicitly stated otherwise, all assets under the following subdirectories on `GameData/AirplanePlus`:
-
 * [Agencies](./GameData/AirplanePlus/Agencies)
 * [Compatibility](./GameData/AirplanePlus/Compatibility)
 * [FX](./GameData/AirplanePlus/FX)
@@ -66,6 +54,22 @@ Unless explicitly stated otherwise, all assets under the following subdirectorie
 * [Spaces](./GameData/AirplanePlus/Spaces)
 
 are ©[blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?), what allows you to:
+
+* copy and redistribute the material in any medium or format
+* create derivatives
+
+But explicitly forbids you to:
+
+* Exploit it commercially
+
+
+#### by ColdJ
+
+Unless explicitly stated otherwise, all assets under the following subdirectories on `GameData/AirplanePlus`:
+
+* [PartsExt/Structure-and-Fuel/r22set/](./GameData/AirplanePlus/PartsExt/Structure-and-Fuel/r22set)
+
+are ©[ColdJ](https://forum.kerbalspaceprogram.com/profile/211123-coldj/) and licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?), what allows you to:
 
 * copy and redistribute the material in any medium or format
 * create derivatives
@@ -103,12 +107,12 @@ Source code on the subdirectory [Source](./Source) (and the respective compiled 
 		- You don't mix your work with GPL incompatible works.
 * If by some reason the GPL would be invalid for you, rest assured that you still retain the right to Use the Work under SKL 1.0.
 
-And you has the choice to choose the license that best suits your needs.
+You have the option to choose the license that best suits your needs.
 
 
 ## References
 
-* [blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) Original Author (ROOT)
+* [blackheart612](https://forum.kerbalspaceprogram.com/index.php?/profile/42741-blackheart612/) ROOT
 	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/140262-14x-144-airplane-plus-r230-full-1875m-parts-crj-series-new-jet-engine-fixes-jul-20-2018/)
 	+ Imgur
 		- [AirplanePlus](https://imgur.com/a/6kDLM)
