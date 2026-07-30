@@ -1,5 +1,5 @@
 ship = Sparrowlance Mk3
-version = 1.4.4
+version = 1.4.3
 description = The Sparrowlance Mk3 Quick Response Jet is a Short Take-Off and Landing aircraft and is able to take off at any short runways. With a full set of flaps as well as airbrakes, it gives a full control over how much speed you want it to have before landing.¨The Sparrowlance rivals the 3rd generation Arrowhead in terms of capabilities although the former has no vectoring engines by default. Furthermore, both aircrafts are the more advanced rivals of the Ravenspear.¨It should be noted that the Sparrow VTOL is the old generation cousin of the Sparrowlance STOL and a platform of testing for the technology of the quick response jet.
 type = SPH
 size = 10.3757219,4.44315386,14.2001362

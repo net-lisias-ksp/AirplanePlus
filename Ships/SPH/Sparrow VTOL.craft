@@ -1,5 +1,5 @@
 ship = Sparrow VTOL
-version = 1.4.4
+version = 1.4.3
 description = The Sparrow VToL is a twin-engined tiltrotor lightweight VTOL aircraft. It is capable of landing vertically like a helicopter but due to the fact that it might quickly pull the aircraft upwards too fast, the horizontal speed is limited compared to the conventional aircraft but faster than a helicopter.¨The simple nature of the Sparrow VTOL and the presence of the tilt-rotor in the KT6C Turboshaft makes the aircraft very light and requires less parts to make and maintain.
 type = SPH
 size = 14.1689482,4.18078709,9.12855148
