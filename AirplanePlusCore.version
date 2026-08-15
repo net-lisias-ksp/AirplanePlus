@@ -1,0 +1,18 @@
+{
+	"NAME"		: "Airplane Plus Core",
+	"URL"		: "https://raw.githubusercontent.com/net-lisias-ksp/AirplanePlue/master/AirplanePlusCore.version",
+	"DOWNLOAD"	: "https://github.com/net-lisias-ksp/AirplanePlus/releases",
+	"CHANGE_LOG_URL": "https://raw.githubusercontent.com/net-lisias-ksp/AirplanePlus/master/CHANGES.md",
+
+	"VERSION":{
+		"MAJOR":26,
+		"MINOR":6,
+		"PATCH":2,
+		"BUILD":5
+		},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":4,
+		"PATCH":1
+		}
+}
