@@ -10,6 +10,7 @@
 	+ Don't ask, I don't have the slightest idea why, the other new experimental parts are fine.
 	+ Well, the thing is Experimental for a reason! 😃
 * The old S2 and new S4 Booms probably should have a variant with Fuel, no?
+* The new `mk3Gakaxy.Exp` cockpit have the round variant broken. It will be fixed ASAP.
 * The Piston engines are terribly overpowered
 	+ Apparently there were converted from `FSEngine` to `ModuleEngine` without converting HP to Thrust correctly. 
 
