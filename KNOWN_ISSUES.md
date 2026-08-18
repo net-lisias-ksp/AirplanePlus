@@ -7,7 +7,9 @@
 * The Experimental `s3hull*` and `s2hull*` parts have an internal glitch where the two mesh variants are being drawn at the same time.
 	+ This is going t cost me some brain cells to fix, but it's doable - I only don't know how yet. 😃
 * The Experimental `s2hull2x` and `s2hull4x` parts have a weird texturing glitch on Editor, but interestingly things are fine on Flight.
-	+ Don't ask, I don't have the slightest idea why, the other new experimental parts are fine.
+	+ ~~Don't ask, I don't have the slightest idea why, the other new experimental parts are fine.~~
+		- FOUND THE REASON. It's pretty obvious to tell the truth - it's the same issue on the `s3hull*` above: multiple meshes being draw over each other.
+		- Fixing that issue will fix this one.
 	+ Well, the thing is Experimental for a reason! 😃
 * The old S2 and new S4 Booms probably should have a variant with Fuel, no?
 * The new `mk3Gakaxy.Exp` cockpit have the round variant broken. It will be fixed ASAP.
