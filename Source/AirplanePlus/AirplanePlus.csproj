@@ -51,6 +51,7 @@
     </Compile>
     <Compile Include="GUI\UnmetRequirementsShowStopperErrorBox.cs" />
     <Compile Include="PartModules\APanimateGenericEchokinesis.cs" />
+    <Compile Include="PartModules\MaxQ.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\Version.tt">
